@@ -1,0 +1,1 @@
+**Subject:** [[Philosophy of mind]]<br><br>**Type: ** #discipline

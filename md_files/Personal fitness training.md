@@ -1,0 +1,1 @@
+**Category:** [[Physical fitness]]<br><br>**Type: ** #subcategory

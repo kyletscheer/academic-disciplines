@@ -1,0 +1,1 @@
+**Category:** [[Cultural psychology]]<br><br>**Type: ** #subcategory

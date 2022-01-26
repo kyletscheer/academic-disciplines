@@ -1,0 +1,1 @@
+**Subcategory:** [[Multi-valued logic]]<br><br>**Type: ** #subject

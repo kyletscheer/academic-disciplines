@@ -1,0 +1,1 @@
+**Category:** [[Stellar astrophysics]]<br><br>**Type: ** #subcategory

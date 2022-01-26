@@ -1,0 +1,1 @@
+**Subcategory:** [[Social philosophy and political philosophy]]<br><br>**Type: ** #subject

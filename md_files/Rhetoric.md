@@ -1,0 +1,1 @@
+**Category:** [[Linguistics (Outline of linguistics)]]<br><br>**Type: ** #subcategory

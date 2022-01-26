@@ -1,0 +1,1 @@
+**Subcategory:** [[Economic sociology/Socioeconomics]]<br><br>**Type: ** #subject

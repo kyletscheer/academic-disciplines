@@ -1,0 +1,1 @@
+**Subject:** [[Functional analysis]]<br><br>**Type: ** #discipline

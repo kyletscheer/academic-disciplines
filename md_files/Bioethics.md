@@ -1,0 +1,1 @@
+**Subject:** [[Applied ethics]]<br><br>**Type: ** #discipline

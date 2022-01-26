@@ -1,0 +1,1 @@
+**Category:** [[Interpretive sociology]]<br><br>**Type: ** #subcategory

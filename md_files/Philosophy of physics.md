@@ -1,0 +1,1 @@
+**Subcategory:** [[Philosophy of physical sciences]]<br><br>**Type: ** #subject

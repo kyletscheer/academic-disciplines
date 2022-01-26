@@ -1,0 +1,1 @@
+**Category:** [[Applied philosophy]]<br><br>**Type: ** #subcategory

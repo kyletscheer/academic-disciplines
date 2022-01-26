@@ -1,0 +1,1 @@
+**Subcategory:** [[Medieval philosophy]]<br><br>**Type: ** #subject

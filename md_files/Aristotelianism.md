@@ -1,0 +1,1 @@
+**Subcategory:** [[Philosophical traditions and schools]]<br><br>**Type: ** #subject

@@ -1,0 +1,1 @@
+**Category:** [[History of philosophy]]<br><br>**Type: ** #subcategory

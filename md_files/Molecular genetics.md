@@ -1,0 +1,1 @@
+**Category:** [[Clinical laboratory sciences/Clinical pathology/Laboratory medicine]]<br><br>**Type: ** #subcategory
