@@ -1,0 +1,7976 @@
+[
+ {
+   "ID": 1,
+   "Parent": "Learning Tree",
+   "Child": "Humanities",
+   "Type": "Domain"
+ },
+ {
+   "ID": 2,
+   "Parent": "Learning Tree",
+   "Child": "Social Sciences",
+   "Type": "Domain"
+ },
+ {
+   "ID": 3,
+   "Parent": "Learning Tree",
+   "Child": "Natural Sciences",
+   "Type": "Domain"
+ },
+ {
+   "ID": 4,
+   "Parent": "Learning Tree",
+   "Child": "Formal Sciences",
+   "Type": "Domain"
+ },
+ {
+   "ID": 5,
+   "Parent": "Learning Tree",
+   "Child": "Applied Sciences",
+   "Type": "Domain"
+ },
+ {
+   "ID": 6,
+   "Parent": "Humanities",
+   "Child": "Performing Arts",
+   "Type": "Field"
+ },
+ {
+   "ID": 7,
+   "Parent": "Humanities",
+   "Child": "Visual Arts",
+   "Type": "Field"
+ },
+ {
+   "ID": 8,
+   "Parent": "Humanities",
+   "Child": "History",
+   "Type": "Field"
+ },
+ {
+   "ID": 9,
+   "Parent": "Humanities",
+   "Child": "Languages and Literature",
+   "Type": "Field"
+ },
+ {
+   "ID": 10,
+   "Parent": "Humanities",
+   "Child": "Law",
+   "Type": "Field"
+ },
+ {
+   "ID": 11,
+   "Parent": "Humanities",
+   "Child": "Philosophy",
+   "Type": "Field"
+ },
+ {
+   "ID": 12,
+   "Parent": "Social Sciences",
+   "Child": "Anthropology",
+   "Type": "Field"
+ },
+ {
+   "ID": 13,
+   "Parent": "Social Sciences",
+   "Child": "Economics",
+   "Type": "Field"
+ },
+ {
+   "ID": 14,
+   "Parent": "Social Sciences",
+   "Child": "Geography",
+   "Type": "Field"
+ },
+ {
+   "ID": 15,
+   "Parent": "Social Sciences",
+   "Child": "Political Science",
+   "Type": "Field"
+ },
+ {
+   "ID": 16,
+   "Parent": "Social Sciences",
+   "Child": "Psychology",
+   "Type": "Field"
+ },
+ {
+   "ID": 17,
+   "Parent": "Social Sciences",
+   "Child": "Sociology",
+   "Type": "Field"
+ },
+ {
+   "ID": 18,
+   "Parent": "Social Sciences",
+   "Child": "Social Work",
+   "Type": "Field"
+ },
+ {
+   "ID": 19,
+   "Parent": "Natural Sciences",
+   "Child": "Biology",
+   "Type": "Field"
+ },
+ {
+   "ID": 20,
+   "Parent": "Natural Sciences",
+   "Child": "Chemistry",
+   "Type": "Field"
+ },
+ {
+   "ID": 21,
+   "Parent": "Natural Sciences",
+   "Child": "Earth Science",
+   "Type": "Field"
+ },
+ {
+   "ID": 22,
+   "Parent": "Natural Sciences",
+   "Child": "Space Sciences",
+   "Type": "Field"
+ },
+ {
+   "ID": 23,
+   "Parent": "Natural Sciences",
+   "Child": "Physics",
+   "Type": "Field"
+ },
+ {
+   "ID": 24,
+   "Parent": "Formal Sciences",
+   "Child": "Physics",
+   "Type": "Field"
+ },
+ {
+   "ID": 25,
+   "Parent": "Formal Sciences",
+   "Child": "Computer Science",
+   "Type": "Field"
+ },
+ {
+   "ID": 26,
+   "Parent": "Formal Sciences",
+   "Child": "Mathematics",
+   "Type": "Field"
+ },
+ {
+   "ID": 27,
+   "Parent": "Applied Sciences",
+   "Child": "Business",
+   "Type": "Field"
+ },
+ {
+   "ID": 28,
+   "Parent": "Applied Sciences",
+   "Child": "Engineering and Technology",
+   "Type": "Field"
+ },
+ {
+   "ID": 29,
+   "Parent": "Applied Sciences",
+   "Child": "Medicine and Health",
+   "Type": "Field"
+ },
+ {
+   "ID": 30,
+   "Parent": "Performing Arts",
+   "Child": "Music",
+   "Type": "Category"
+ },
+ {
+   "ID": 31,
+   "Parent": "Performing Arts",
+   "Child": "Dance",
+   "Type": "Category"
+ },
+ {
+   "ID": 32,
+   "Parent": "Performing Arts",
+   "Child": "Television (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 33,
+   "Parent": "Performing Arts",
+   "Child": "Theatre (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 34,
+   "Parent": "Performing Arts",
+   "Child": "Film (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 35,
+   "Parent": "Visual Arts",
+   "Child": "Film (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 36,
+   "Parent": "Visual Arts",
+   "Child": "Fine Arts",
+   "Type": "Category"
+ },
+ {
+   "ID": 37,
+   "Parent": "Visual Arts",
+   "Child": "Applied arts",
+   "Type": "Category"
+ },
+ {
+   "ID": 38,
+   "Parent": "History",
+   "Child": "African history",
+   "Type": "Category"
+ },
+ {
+   "ID": 39,
+   "Parent": "History",
+   "Child": "American history",
+   "Type": "Category"
+ },
+ {
+   "ID": 40,
+   "Parent": "History",
+   "Child": "Ancient history",
+   "Type": "Category"
+ },
+ {
+   "ID": 41,
+   "Parent": "History",
+   "Child": "Asian history",
+   "Type": "Category"
+ },
+ {
+   "ID": 42,
+   "Parent": "History",
+   "Child": "Australian history",
+   "Type": "Category"
+ },
+ {
+   "ID": 43,
+   "Parent": "History",
+   "Child": "Ecclesiastical history of the Catholic Church",
+   "Type": "Category"
+ },
+ {
+   "ID": 44,
+   "Parent": "History",
+   "Child": "Economic history",
+   "Type": "Category"
+ },
+ {
+   "ID": 45,
+   "Parent": "History",
+   "Child": "Environmental history",
+   "Type": "Category"
+ },
+ {
+   "ID": 46,
+   "Parent": "History",
+   "Child": "European history",
+   "Type": "Category"
+ },
+ {
+   "ID": 47,
+   "Parent": "History",
+   "Child": "Intellectual history",
+   "Type": "Category"
+ },
+ {
+   "ID": 48,
+   "Parent": "History",
+   "Child": "Jewish history",
+   "Type": "Category"
+ },
+ {
+   "ID": 49,
+   "Parent": "History",
+   "Child": "Latin American history",
+   "Type": "Category"
+ },
+ {
+   "ID": 50,
+   "Parent": "History",
+   "Child": "Modern history",
+   "Type": "Category"
+ },
+ {
+   "ID": 51,
+   "Parent": "History",
+   "Child": "History of philosophy",
+   "Type": "Category"
+ },
+ {
+   "ID": 52,
+   "Parent": "History",
+   "Child": "Political history",
+   "Type": "Category"
+ },
+ {
+   "ID": 53,
+   "Parent": "History",
+   "Child": "Pre-Columbian era",
+   "Type": "Category"
+ },
+ {
+   "ID": 54,
+   "Parent": "History",
+   "Child": "Russian history",
+   "Type": "Category"
+ },
+ {
+   "ID": 55,
+   "Parent": "History",
+   "Child": "History of culture",
+   "Type": "Category"
+ },
+ {
+   "ID": 56,
+   "Parent": "History",
+   "Child": "Scientific history",
+   "Type": "Category"
+ },
+ {
+   "ID": 57,
+   "Parent": "History",
+   "Child": "Technological history",
+   "Type": "Category"
+ },
+ {
+   "ID": 58,
+   "Parent": "History",
+   "Child": "World history",
+   "Type": "Category"
+ },
+ {
+   "ID": 59,
+   "Parent": "History",
+   "Child": "Public history",
+   "Type": "Category"
+ },
+ {
+   "ID": 60,
+   "Parent": "Languages and Literature",
+   "Child": "Public history",
+   "Type": "Category"
+ },
+ {
+   "ID": 61,
+   "Parent": "Languages and Literature",
+   "Child": "Linguistics (Outline of linguistics)",
+   "Type": "Category"
+ },
+ {
+   "ID": 62,
+   "Parent": "Languages and Literature",
+   "Child": "Comparative literature",
+   "Type": "Category"
+ },
+ {
+   "ID": 63,
+   "Parent": "Languages and Literature",
+   "Child": "Creative writing",
+   "Type": "Category"
+ },
+ {
+   "ID": 64,
+   "Parent": "Languages and Literature",
+   "Child": "English literature",
+   "Type": "Category"
+ },
+ {
+   "ID": 65,
+   "Parent": "Languages and Literature",
+   "Child": "History of literature",
+   "Type": "Category"
+ },
+ {
+   "ID": 66,
+   "Parent": "Languages and Literature",
+   "Child": "Poetry",
+   "Type": "Category"
+ },
+ {
+   "ID": 67,
+   "Parent": "Languages and Literature",
+   "Child": "World literature",
+   "Type": "Category"
+ },
+ {
+   "ID": 68,
+   "Parent": "Law",
+   "Child": "Administrative Law",
+   "Type": "Category"
+ },
+ {
+   "ID": 69,
+   "Parent": "Law",
+   "Child": "Canon law",
+   "Type": "Category"
+ },
+ {
+   "ID": 70,
+   "Parent": "Law",
+   "Child": "Civil law",
+   "Type": "Category"
+ },
+ {
+   "ID": 71,
+   "Parent": "Law",
+   "Child": "Comparative law",
+   "Type": "Category"
+ },
+ {
+   "ID": 72,
+   "Parent": "Law",
+   "Child": "Competition law",
+   "Type": "Category"
+ },
+ {
+   "ID": 73,
+   "Parent": "Law",
+   "Child": "Constitutional law",
+   "Type": "Category"
+ },
+ {
+   "ID": 74,
+   "Parent": "Law",
+   "Child": "Criminal law",
+   "Type": "Category"
+ },
+ {
+   "ID": 75,
+   "Parent": "Law",
+   "Child": "Islamic law",
+   "Type": "Category"
+ },
+ {
+   "ID": 76,
+   "Parent": "Law",
+   "Child": "Jewish law (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 77,
+   "Parent": "Law",
+   "Child": "Jurisprudence (Philosophy of Law)",
+   "Type": "Category"
+ },
+ {
+   "ID": 78,
+   "Parent": "Law",
+   "Child": "Legal management",
+   "Type": "Category"
+ },
+ {
+   "ID": 79,
+   "Parent": "Law",
+   "Child": "Procedural law",
+   "Type": "Category"
+ },
+ {
+   "ID": 80,
+   "Parent": "Law",
+   "Child": "Substantive law",
+   "Type": "Category"
+ },
+ {
+   "ID": 81,
+   "Parent": "Philosophy",
+   "Child": "Aesthetics (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 82,
+   "Parent": "Philosophy",
+   "Child": "Applied philosophy",
+   "Type": "Category"
+ },
+ {
+   "ID": 83,
+   "Parent": "Anthropology",
+   "Child": "Biological anthropology",
+   "Type": "Category"
+ },
+ {
+   "ID": 84,
+   "Parent": "Anthropology",
+   "Child": "Linguistic anthropology",
+   "Type": "Category"
+ },
+ {
+   "ID": 85,
+   "Parent": "Anthropology",
+   "Child": "Cultural anthropology",
+   "Type": "Category"
+ },
+ {
+   "ID": 86,
+   "Parent": "Anthropology",
+   "Child": "Social anthropology",
+   "Type": "Category"
+ },
+ {
+   "ID": 87,
+   "Parent": "Anthropology",
+   "Child": "Archaeology",
+   "Type": "Category"
+ },
+ {
+   "ID": 88,
+   "Parent": "Economics",
+   "Child": "Agricultural economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 89,
+   "Parent": "Economics",
+   "Child": "Anarchist economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 90,
+   "Parent": "Economics",
+   "Child": "Applied economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 91,
+   "Parent": "Economics",
+   "Child": "Behavioural economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 92,
+   "Parent": "Economics",
+   "Child": "Bioeconomics",
+   "Type": "Category"
+ },
+ {
+   "ID": 93,
+   "Parent": "Economics",
+   "Child": "Complexity economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 94,
+   "Parent": "Economics",
+   "Child": "Computational economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 95,
+   "Parent": "Economics",
+   "Child": "Consumer economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 96,
+   "Parent": "Economics",
+   "Child": "Development economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 97,
+   "Parent": "Economics",
+   "Child": "Ecological economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 98,
+   "Parent": "Economics",
+   "Child": "Econometrics",
+   "Type": "Category"
+ },
+ {
+   "ID": 99,
+   "Parent": "Economics",
+   "Child": "Economic geography",
+   "Type": "Category"
+ },
+ {
+   "ID": 100,
+   "Parent": "Economics",
+   "Child": "Economic sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 101,
+   "Parent": "Economics",
+   "Child": "Economic systems",
+   "Type": "Category"
+ },
+ {
+   "ID": 102,
+   "Parent": "Economics",
+   "Child": "Education economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 103,
+   "Parent": "Economics",
+   "Child": "Energy economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 104,
+   "Parent": "Economics",
+   "Child": "Entrepreneurial economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 105,
+   "Parent": "Economics",
+   "Child": "Environmental economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 106,
+   "Parent": "Economics",
+   "Child": "Evolutionary economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 107,
+   "Parent": "Economics",
+   "Child": "Experimental economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 108,
+   "Parent": "Economics",
+   "Child": "Feminist economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 109,
+   "Parent": "Economics",
+   "Child": "Financial econometrics",
+   "Type": "Category"
+ },
+ {
+   "ID": 110,
+   "Parent": "Economics",
+   "Child": "Financial economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 111,
+   "Parent": "Economics",
+   "Child": "Green economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 112,
+   "Parent": "Economics",
+   "Child": "Growth economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 113,
+   "Parent": "Economics",
+   "Child": "Human development theory",
+   "Type": "Category"
+ },
+ {
+   "ID": 114,
+   "Parent": "Economics",
+   "Child": "Industrial organization",
+   "Type": "Category"
+ },
+ {
+   "ID": 115,
+   "Parent": "Economics",
+   "Child": "Information economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 116,
+   "Parent": "Economics",
+   "Child": "Institutional economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 117,
+   "Parent": "Economics",
+   "Child": "International economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 118,
+   "Parent": "Economics",
+   "Child": "Islamic economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 119,
+   "Parent": "Economics",
+   "Child": "Labor economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 120,
+   "Parent": "Economics",
+   "Child": "Law and economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 121,
+   "Parent": "Economics",
+   "Child": "Macroeconomics",
+   "Type": "Category"
+ },
+ {
+   "ID": 122,
+   "Parent": "Economics",
+   "Child": "Managerial economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 123,
+   "Parent": "Economics",
+   "Child": "Marxian economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 124,
+   "Parent": "Economics",
+   "Child": "Mathematical economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 125,
+   "Parent": "Economics",
+   "Child": "Microeconomics",
+   "Type": "Category"
+ },
+ {
+   "ID": 126,
+   "Parent": "Economics",
+   "Child": "Monetary economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 127,
+   "Parent": "Economics",
+   "Child": "Neuroeconomics",
+   "Type": "Category"
+ },
+ {
+   "ID": 128,
+   "Parent": "Economics",
+   "Child": "Participatory economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 129,
+   "Parent": "Economics",
+   "Child": "Political economy",
+   "Type": "Category"
+ },
+ {
+   "ID": 130,
+   "Parent": "Economics",
+   "Child": "Public economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 131,
+   "Parent": "Economics",
+   "Child": "Public finance",
+   "Type": "Category"
+ },
+ {
+   "ID": 132,
+   "Parent": "Economics",
+   "Child": "Real estate economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 133,
+   "Parent": "Economics",
+   "Child": "Resource economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 134,
+   "Parent": "Economics",
+   "Child": "Social choice theory",
+   "Type": "Category"
+ },
+ {
+   "ID": 135,
+   "Parent": "Economics",
+   "Child": "Socialist economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 136,
+   "Parent": "Economics",
+   "Child": "Socioeconomics",
+   "Type": "Category"
+ },
+ {
+   "ID": 137,
+   "Parent": "Economics",
+   "Child": "Transport economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 138,
+   "Parent": "Economics",
+   "Child": "Welfare economics",
+   "Type": "Category"
+ },
+ {
+   "ID": 139,
+   "Parent": "Geography",
+   "Child": "Physical geography",
+   "Type": "Category"
+ },
+ {
+   "ID": 140,
+   "Parent": "Geography",
+   "Child": "Human Geography",
+   "Type": "Category"
+ },
+ {
+   "ID": 141,
+   "Parent": "Geography",
+   "Child": "Integrated geography",
+   "Type": "Category"
+ },
+ {
+   "ID": 142,
+   "Parent": "Geography",
+   "Child": "Cartography",
+   "Type": "Category"
+ },
+ {
+   "ID": 143,
+   "Parent": "Political Science",
+   "Child": "American politics",
+   "Type": "Category"
+ },
+ {
+   "ID": 144,
+   "Parent": "Political Science",
+   "Child": "Canadian politics",
+   "Type": "Category"
+ },
+ {
+   "ID": 145,
+   "Parent": "Political Science",
+   "Child": "Civics",
+   "Type": "Category"
+ },
+ {
+   "ID": 146,
+   "Parent": "Political Science",
+   "Child": "Comparative politics",
+   "Type": "Category"
+ },
+ {
+   "ID": 147,
+   "Parent": "Political Science",
+   "Child": "European studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 148,
+   "Parent": "Political Science",
+   "Child": "Geopolitics (Political geography)",
+   "Type": "Category"
+ },
+ {
+   "ID": 149,
+   "Parent": "Political Science",
+   "Child": "International relations",
+   "Type": "Category"
+ },
+ {
+   "ID": 150,
+   "Parent": "Political Science",
+   "Child": "International organizations",
+   "Type": "Category"
+ },
+ {
+   "ID": 151,
+   "Parent": "Political Science",
+   "Child": "Nationalism studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 152,
+   "Parent": "Political Science",
+   "Child": "Peace and conflict studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 153,
+   "Parent": "Political Science",
+   "Child": "Policy studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 154,
+   "Parent": "Political Science",
+   "Child": "Political behavior",
+   "Type": "Category"
+ },
+ {
+   "ID": 155,
+   "Parent": "Political Science",
+   "Child": "Political culture",
+   "Type": "Category"
+ },
+ {
+   "ID": 156,
+   "Parent": "Political Science",
+   "Child": "Political economy",
+   "Type": "Category"
+ },
+ {
+   "ID": 157,
+   "Parent": "Political Science",
+   "Child": "Political history",
+   "Type": "Category"
+ },
+ {
+   "ID": 158,
+   "Parent": "Political Science",
+   "Child": "Political philosophy",
+   "Type": "Category"
+ },
+ {
+   "ID": 159,
+   "Parent": "Political Science",
+   "Child": "Public administration",
+   "Type": "Category"
+ },
+ {
+   "ID": 160,
+   "Parent": "Political Science",
+   "Child": "Public law",
+   "Type": "Category"
+ },
+ {
+   "ID": 161,
+   "Parent": "Political Science",
+   "Child": "Psephology",
+   "Type": "Category"
+ },
+ {
+   "ID": 162,
+   "Parent": "Political Science",
+   "Child": "Social choice theory",
+   "Type": "Category"
+ },
+ {
+   "ID": 163,
+   "Parent": "Psychology",
+   "Child": "Abnormal psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 164,
+   "Parent": "Psychology",
+   "Child": "Applied psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 165,
+   "Parent": "Psychology",
+   "Child": "Biological psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 166,
+   "Parent": "Psychology",
+   "Child": "Clinical neuropsychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 167,
+   "Parent": "Psychology",
+   "Child": "Clinical psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 168,
+   "Parent": "Psychology",
+   "Child": "Cognitive psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 169,
+   "Parent": "Psychology",
+   "Child": "Community psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 170,
+   "Parent": "Psychology",
+   "Child": "Comparative psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 171,
+   "Parent": "Psychology",
+   "Child": "Conservation psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 172,
+   "Parent": "Psychology",
+   "Child": "Consumer psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 173,
+   "Parent": "Psychology",
+   "Child": "Counseling psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 174,
+   "Parent": "Psychology",
+   "Child": "Criminal psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 175,
+   "Parent": "Psychology",
+   "Child": "Cultural psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 176,
+   "Parent": "Psychology",
+   "Child": "Developmental psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 177,
+   "Parent": "Psychology",
+   "Child": "Differential psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 178,
+   "Parent": "Psychology",
+   "Child": "Ecological psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 179,
+   "Parent": "Psychology",
+   "Child": "Educational psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 180,
+   "Parent": "Psychology",
+   "Child": "Environmental psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 181,
+   "Parent": "Psychology",
+   "Child": "Evolutionary psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 182,
+   "Parent": "Psychology",
+   "Child": "Experimental psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 183,
+   "Parent": "Psychology",
+   "Child": "Group psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 184,
+   "Parent": "Psychology",
+   "Child": "Family psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 185,
+   "Parent": "Psychology",
+   "Child": "Feminine psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 186,
+   "Parent": "Psychology",
+   "Child": "Forensic developmental psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 187,
+   "Parent": "Psychology",
+   "Child": "Forensic psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 188,
+   "Parent": "Psychology",
+   "Child": "Health psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 189,
+   "Parent": "Psychology",
+   "Child": "Humanistic psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 190,
+   "Parent": "Psychology",
+   "Child": "Indigenous psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 191,
+   "Parent": "Psychology",
+   "Child": "Legal psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 192,
+   "Parent": "Psychology",
+   "Child": "Mathematical psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 193,
+   "Parent": "Psychology",
+   "Child": "Media psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 194,
+   "Parent": "Psychology",
+   "Child": "Medical psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 195,
+   "Parent": "Psychology",
+   "Child": "Military psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 196,
+   "Parent": "Psychology",
+   "Child": "Moral psychology and Descriptive ethics",
+   "Type": "Category"
+ },
+ {
+   "ID": 197,
+   "Parent": "Psychology",
+   "Child": "Music psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 198,
+   "Parent": "Psychology",
+   "Child": "Neuropsychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 199,
+   "Parent": "Psychology",
+   "Child": "Occupational health psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 200,
+   "Parent": "Psychology",
+   "Child": "Occupational psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 201,
+   "Parent": "Psychology",
+   "Child": "Organizational psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 202,
+   "Parent": "Psychology",
+   "Child": "Parapsychology (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 203,
+   "Parent": "Psychology",
+   "Child": "Pediatric psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 204,
+   "Parent": "Psychology",
+   "Child": "Pedology (children study)",
+   "Type": "Category"
+ },
+ {
+   "ID": 205,
+   "Parent": "Psychology",
+   "Child": "Personality psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 206,
+   "Parent": "Psychology",
+   "Child": "Phenomenology",
+   "Type": "Category"
+ },
+ {
+   "ID": 207,
+   "Parent": "Psychology",
+   "Child": "Political psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 208,
+   "Parent": "Psychology",
+   "Child": "Positive psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 209,
+   "Parent": "Psychology",
+   "Child": "Psychoanalysis",
+   "Type": "Category"
+ },
+ {
+   "ID": 210,
+   "Parent": "Psychology",
+   "Child": "Psychobiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 211,
+   "Parent": "Psychology",
+   "Child": "Psychology of religion",
+   "Type": "Category"
+ },
+ {
+   "ID": 212,
+   "Parent": "Psychology",
+   "Child": "Psychometrics",
+   "Type": "Category"
+ },
+ {
+   "ID": 213,
+   "Parent": "Psychology",
+   "Child": "Psychopathology",
+   "Type": "Category"
+ },
+ {
+   "ID": 214,
+   "Parent": "Psychology",
+   "Child": "Psychophysics",
+   "Type": "Category"
+ },
+ {
+   "ID": 215,
+   "Parent": "Psychology",
+   "Child": "Quantitative psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 216,
+   "Parent": "Psychology",
+   "Child": "Rehabilitation psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 217,
+   "Parent": "Psychology",
+   "Child": "School psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 218,
+   "Parent": "Psychology",
+   "Child": "Social psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 219,
+   "Parent": "Psychology",
+   "Child": "Sport psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 220,
+   "Parent": "Psychology",
+   "Child": "Traffic psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 221,
+   "Parent": "Psychology",
+   "Child": "Transpersonal psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 222,
+   "Parent": "Sociology",
+   "Child": "Analytical sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 223,
+   "Parent": "Sociology",
+   "Child": "Applied sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 224,
+   "Parent": "Sociology",
+   "Child": "Architectural sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 225,
+   "Parent": "Sociology",
+   "Child": "Area studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 226,
+   "Parent": "Sociology",
+   "Child": "Behavioral sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 227,
+   "Parent": "Sociology",
+   "Child": "Collective behavior",
+   "Type": "Category"
+ },
+ {
+   "ID": 228,
+   "Parent": "Sociology",
+   "Child": "Community informatics",
+   "Type": "Category"
+ },
+ {
+   "ID": 229,
+   "Parent": "Sociology",
+   "Child": "Comparative sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 230,
+   "Parent": "Sociology",
+   "Child": "Conflict theory",
+   "Type": "Category"
+ },
+ {
+   "ID": 231,
+   "Parent": "Sociology",
+   "Child": "Criminology/Criminal justice (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 232,
+   "Parent": "Sociology",
+   "Child": "Critical management studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 233,
+   "Parent": "Sociology",
+   "Child": "Critical sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 234,
+   "Parent": "Sociology",
+   "Child": "Cultural sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 235,
+   "Parent": "Sociology",
+   "Child": "Cultural studies/ethnic studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 236,
+   "Parent": "Sociology",
+   "Child": "Demography/Population",
+   "Type": "Category"
+ },
+ {
+   "ID": 237,
+   "Parent": "Sociology",
+   "Child": "Digital sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 238,
+   "Parent": "Sociology",
+   "Child": "Dramaturgical sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 239,
+   "Parent": "Sociology",
+   "Child": "Economic sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 240,
+   "Parent": "Sociology",
+   "Child": "Educational sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 241,
+   "Parent": "Sociology",
+   "Child": "Empirical sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 242,
+   "Parent": "Sociology",
+   "Child": "Environmental sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 243,
+   "Parent": "Sociology",
+   "Child": "Evolutionary sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 244,
+   "Parent": "Sociology",
+   "Child": "Feminist sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 245,
+   "Parent": "Sociology",
+   "Child": "Figurational sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 246,
+   "Parent": "Sociology",
+   "Child": "Futures studies (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 247,
+   "Parent": "Sociology",
+   "Child": "Gender studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 248,
+   "Parent": "Sociology",
+   "Child": "Historical sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 249,
+   "Parent": "Sociology",
+   "Child": "Human ecology",
+   "Type": "Category"
+ },
+ {
+   "ID": 250,
+   "Parent": "Sociology",
+   "Child": "Humanistic sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 251,
+   "Parent": "Sociology",
+   "Child": "Industrial sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 252,
+   "Parent": "Sociology",
+   "Child": "Interactionism",
+   "Type": "Category"
+ },
+ {
+   "ID": 253,
+   "Parent": "Sociology",
+   "Child": "Interpretive sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 254,
+   "Parent": "Sociology",
+   "Child": "Jealousy sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 255,
+   "Parent": "Sociology",
+   "Child": "Macrosociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 256,
+   "Parent": "Sociology",
+   "Child": "Marxist sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 257,
+   "Parent": "Sociology",
+   "Child": "Mathematical sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 258,
+   "Parent": "Sociology",
+   "Child": "Medical sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 259,
+   "Parent": "Sociology",
+   "Child": "Mesosociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 260,
+   "Parent": "Sociology",
+   "Child": "Microsociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 261,
+   "Parent": "Sociology",
+   "Child": "Military sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 262,
+   "Parent": "Sociology",
+   "Child": "Natural resource sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 263,
+   "Parent": "Sociology",
+   "Child": "Organizational studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 264,
+   "Parent": "Sociology",
+   "Child": "Phenomenological sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 265,
+   "Parent": "Sociology",
+   "Child": "Policy sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 266,
+   "Parent": "Sociology",
+   "Child": "Psychoanalytic sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 267,
+   "Parent": "Sociology",
+   "Child": "Science studies/Science and technology studies",
+   "Type": "Category"
+ },
+ {
+   "ID": 268,
+   "Parent": "Sociology",
+   "Child": "Sexology",
+   "Type": "Category"
+ },
+ {
+   "ID": 269,
+   "Parent": "Sociology",
+   "Child": "Social capital",
+   "Type": "Category"
+ },
+ {
+   "ID": 270,
+   "Parent": "Sociology",
+   "Child": "Social change",
+   "Type": "Category"
+ },
+ {
+   "ID": 271,
+   "Parent": "Sociology",
+   "Child": "Social conflict theory",
+   "Type": "Category"
+ },
+ {
+   "ID": 272,
+   "Parent": "Sociology",
+   "Child": "Social control",
+   "Type": "Category"
+ },
+ {
+   "ID": 273,
+   "Parent": "Sociology",
+   "Child": "Social economy",
+   "Type": "Category"
+ },
+ {
+   "ID": 274,
+   "Parent": "Sociology",
+   "Child": "Social philosophy",
+   "Type": "Category"
+ },
+ {
+   "ID": 275,
+   "Parent": "Sociology",
+   "Child": "Social policy",
+   "Type": "Category"
+ },
+ {
+   "ID": 276,
+   "Parent": "Sociology",
+   "Child": "Social psychology",
+   "Type": "Category"
+ },
+ {
+   "ID": 277,
+   "Parent": "Sociology",
+   "Child": "Social stratification",
+   "Type": "Category"
+ },
+ {
+   "ID": 278,
+   "Parent": "Sociology",
+   "Child": "Social theory",
+   "Type": "Category"
+ },
+ {
+   "ID": 279,
+   "Parent": "Sociology",
+   "Child": "Social transformation",
+   "Type": "Category"
+ },
+ {
+   "ID": 280,
+   "Parent": "Sociology",
+   "Child": "Sociobiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 281,
+   "Parent": "Sociology",
+   "Child": "Sociocybernetics",
+   "Type": "Category"
+ },
+ {
+   "ID": 282,
+   "Parent": "Sociology",
+   "Child": "Sociolinguistics",
+   "Type": "Category"
+ },
+ {
+   "ID": 283,
+   "Parent": "Sociology",
+   "Child": "Sociology of aging",
+   "Type": "Category"
+ },
+ {
+   "ID": 284,
+   "Parent": "Sociology",
+   "Child": "Sociology of agriculture",
+   "Type": "Category"
+ },
+ {
+   "ID": 285,
+   "Parent": "Sociology",
+   "Child": "Sociology of art",
+   "Type": "Category"
+ },
+ {
+   "ID": 286,
+   "Parent": "Sociology",
+   "Child": "Sociology of autism",
+   "Type": "Category"
+ },
+ {
+   "ID": 287,
+   "Parent": "Sociology",
+   "Child": "Sociology of childhood",
+   "Type": "Category"
+ },
+ {
+   "ID": 288,
+   "Parent": "Sociology",
+   "Child": "Sociology of conflict",
+   "Type": "Category"
+ },
+ {
+   "ID": 289,
+   "Parent": "Sociology",
+   "Child": "Sociology of culture",
+   "Type": "Category"
+ },
+ {
+   "ID": 290,
+   "Parent": "Sociology",
+   "Child": "Sociology of cyberspace",
+   "Type": "Category"
+ },
+ {
+   "ID": 291,
+   "Parent": "Sociology",
+   "Child": "Sociology of development",
+   "Type": "Category"
+ },
+ {
+   "ID": 292,
+   "Parent": "Sociology",
+   "Child": "Sociology of deviance",
+   "Type": "Category"
+ },
+ {
+   "ID": 293,
+   "Parent": "Sociology",
+   "Child": "Sociology of disaster",
+   "Type": "Category"
+ },
+ {
+   "ID": 294,
+   "Parent": "Sociology",
+   "Child": "Sociology of education",
+   "Type": "Category"
+ },
+ {
+   "ID": 295,
+   "Parent": "Sociology",
+   "Child": "Sociology of emotions",
+   "Type": "Category"
+ },
+ {
+   "ID": 296,
+   "Parent": "Sociology",
+   "Child": "Sociology of fatherhood",
+   "Type": "Category"
+ },
+ {
+   "ID": 297,
+   "Parent": "Sociology",
+   "Child": "Sociology of finance",
+   "Type": "Category"
+ },
+ {
+   "ID": 298,
+   "Parent": "Sociology",
+   "Child": "Sociology of food",
+   "Type": "Category"
+ },
+ {
+   "ID": 299,
+   "Parent": "Sociology",
+   "Child": "Sociology of gender",
+   "Type": "Category"
+ },
+ {
+   "ID": 300,
+   "Parent": "Sociology",
+   "Child": "Sociology of generations",
+   "Type": "Category"
+ },
+ {
+   "ID": 301,
+   "Parent": "Sociology",
+   "Child": "Sociology of globalization",
+   "Type": "Category"
+ },
+ {
+   "ID": 302,
+   "Parent": "Sociology",
+   "Child": "Sociology of government",
+   "Type": "Category"
+ },
+ {
+   "ID": 303,
+   "Parent": "Sociology",
+   "Child": "Sociology of health and illness",
+   "Type": "Category"
+ },
+ {
+   "ID": 304,
+   "Parent": "Sociology",
+   "Child": "Sociology of human consciousness",
+   "Type": "Category"
+ },
+ {
+   "ID": 305,
+   "Parent": "Sociology",
+   "Child": "Sociology of immigration",
+   "Type": "Category"
+ },
+ {
+   "ID": 306,
+   "Parent": "Sociology",
+   "Child": "Sociology of knowledge",
+   "Type": "Category"
+ },
+ {
+   "ID": 307,
+   "Parent": "Sociology",
+   "Child": "Sociology of language",
+   "Type": "Category"
+ },
+ {
+   "ID": 308,
+   "Parent": "Sociology",
+   "Child": "Sociology of law",
+   "Type": "Category"
+ },
+ {
+   "ID": 309,
+   "Parent": "Sociology",
+   "Child": "Sociology of leisure",
+   "Type": "Category"
+ },
+ {
+   "ID": 310,
+   "Parent": "Sociology",
+   "Child": "Sociology of literature",
+   "Type": "Category"
+ },
+ {
+   "ID": 311,
+   "Parent": "Sociology",
+   "Child": "Sociology of markets",
+   "Type": "Category"
+ },
+ {
+   "ID": 312,
+   "Parent": "Sociology",
+   "Child": "Sociology of marriage",
+   "Type": "Category"
+ },
+ {
+   "ID": 313,
+   "Parent": "Sociology",
+   "Child": "Sociology of motherhood",
+   "Type": "Category"
+ },
+ {
+   "ID": 314,
+   "Parent": "Sociology",
+   "Child": "Sociology of music",
+   "Type": "Category"
+ },
+ {
+   "ID": 315,
+   "Parent": "Sociology",
+   "Child": "Sociology of natural resources",
+   "Type": "Category"
+ },
+ {
+   "ID": 316,
+   "Parent": "Sociology",
+   "Child": "Sociology of organizations",
+   "Type": "Category"
+ },
+ {
+   "ID": 317,
+   "Parent": "Sociology",
+   "Child": "Sociology of peace, war, and social conflict",
+   "Type": "Category"
+ },
+ {
+   "ID": 318,
+   "Parent": "Sociology",
+   "Child": "Sociology of punishment",
+   "Type": "Category"
+ },
+ {
+   "ID": 319,
+   "Parent": "Sociology",
+   "Child": "Sociology of race and ethnic relations",
+   "Type": "Category"
+ },
+ {
+   "ID": 320,
+   "Parent": "Sociology",
+   "Child": "Sociology of religion",
+   "Type": "Category"
+ },
+ {
+   "ID": 321,
+   "Parent": "Sociology",
+   "Child": "Sociology of risk",
+   "Type": "Category"
+ },
+ {
+   "ID": 322,
+   "Parent": "Sociology",
+   "Child": "Sociology of science",
+   "Type": "Category"
+ },
+ {
+   "ID": 323,
+   "Parent": "Sociology",
+   "Child": "Sociology of scientific knowledge",
+   "Type": "Category"
+ },
+ {
+   "ID": 324,
+   "Parent": "Sociology",
+   "Child": "Sociology of social change",
+   "Type": "Category"
+ },
+ {
+   "ID": 325,
+   "Parent": "Sociology",
+   "Child": "Sociology of social movements",
+   "Type": "Category"
+ },
+ {
+   "ID": 326,
+   "Parent": "Sociology",
+   "Child": "Sociology of space",
+   "Type": "Category"
+ },
+ {
+   "ID": 327,
+   "Parent": "Sociology",
+   "Child": "Sociology of sport",
+   "Type": "Category"
+ },
+ {
+   "ID": 328,
+   "Parent": "Sociology",
+   "Child": "Sociology of technology",
+   "Type": "Category"
+ },
+ {
+   "ID": 329,
+   "Parent": "Sociology",
+   "Child": "Sociology of terrorism",
+   "Type": "Category"
+ },
+ {
+   "ID": 330,
+   "Parent": "Sociology",
+   "Child": "Sociology of the body",
+   "Type": "Category"
+ },
+ {
+   "ID": 331,
+   "Parent": "Sociology",
+   "Child": "Sociology of the family",
+   "Type": "Category"
+ },
+ {
+   "ID": 332,
+   "Parent": "Sociology",
+   "Child": "Sociology of the history of science",
+   "Type": "Category"
+ },
+ {
+   "ID": 333,
+   "Parent": "Sociology",
+   "Child": "Sociology of the Internet",
+   "Type": "Category"
+ },
+ {
+   "ID": 334,
+   "Parent": "Sociology",
+   "Child": "Sociology of work",
+   "Type": "Category"
+ },
+ {
+   "ID": 335,
+   "Parent": "Sociology",
+   "Child": "Sociomusicology",
+   "Type": "Category"
+ },
+ {
+   "ID": 336,
+   "Parent": "Sociology",
+   "Child": "Structural sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 337,
+   "Parent": "Sociology",
+   "Child": "Theoretical sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 338,
+   "Parent": "Sociology",
+   "Child": "Urban studies or Urban sociology/Rural sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 339,
+   "Parent": "Sociology",
+   "Child": "Victimology",
+   "Type": "Category"
+ },
+ {
+   "ID": 340,
+   "Parent": "Sociology",
+   "Child": "Visual sociology",
+   "Type": "Category"
+ },
+ {
+   "ID": 341,
+   "Parent": "Social Work",
+   "Child": "Clinical Social Work",
+   "Type": "Category"
+ },
+ {
+   "ID": 342,
+   "Parent": "Social Work",
+   "Child": "Community practice",
+   "Type": "Category"
+ },
+ {
+   "ID": 343,
+   "Parent": "Social Work",
+   "Child": "Mental health",
+   "Type": "Category"
+ },
+ {
+   "ID": 344,
+   "Parent": "Social Work",
+   "Child": "Psychosocial rehabilitation",
+   "Type": "Category"
+ },
+ {
+   "ID": 345,
+   "Parent": "Social Work",
+   "Child": "Person-centered therapy",
+   "Type": "Category"
+ },
+ {
+   "ID": 346,
+   "Parent": "Social Work",
+   "Child": "Family therapy",
+   "Type": "Category"
+ },
+ {
+   "ID": 347,
+   "Parent": "Social Work",
+   "Child": "Financial social work",
+   "Type": "Category"
+ },
+ {
+   "ID": 348,
+   "Parent": "Biology",
+   "Child": "Aerobiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 349,
+   "Parent": "Biology",
+   "Child": "Anatomy",
+   "Type": "Category"
+ },
+ {
+   "ID": 350,
+   "Parent": "Biology",
+   "Child": "Biochemistry (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 351,
+   "Parent": "Biology",
+   "Child": "Bioinformatics",
+   "Type": "Category"
+ },
+ {
+   "ID": 352,
+   "Parent": "Biology",
+   "Child": "Biophysics (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 353,
+   "Parent": "Biology",
+   "Child": "Biotechnology (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 354,
+   "Parent": "Biology",
+   "Child": "Botany (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 355,
+   "Parent": "Biology",
+   "Child": "Cell biology (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 356,
+   "Parent": "Biology",
+   "Child": "Chronobiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 357,
+   "Parent": "Biology",
+   "Child": "Computational biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 358,
+   "Parent": "Biology",
+   "Child": "Cryobiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 359,
+   "Parent": "Biology",
+   "Child": "Developmental biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 360,
+   "Parent": "Biology",
+   "Child": "Ecology (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 361,
+   "Parent": "Biology",
+   "Child": "Endocrinology",
+   "Type": "Category"
+ },
+ {
+   "ID": 362,
+   "Parent": "Biology",
+   "Child": "Evolutionary biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 363,
+   "Parent": "Biology",
+   "Child": "Genetics (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 364,
+   "Parent": "Biology",
+   "Child": "Histology",
+   "Type": "Category"
+ },
+ {
+   "ID": 365,
+   "Parent": "Biology",
+   "Child": "Human biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 366,
+   "Parent": "Biology",
+   "Child": "Immunology (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 367,
+   "Parent": "Biology",
+   "Child": "Limnology",
+   "Type": "Category"
+ },
+ {
+   "ID": 368,
+   "Parent": "Biology",
+   "Child": "Linnaean taxonomy",
+   "Type": "Category"
+ },
+ {
+   "ID": 369,
+   "Parent": "Biology",
+   "Child": "Marine biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 370,
+   "Parent": "Biology",
+   "Child": "Mathematical biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 371,
+   "Parent": "Biology",
+   "Child": "Microbiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 372,
+   "Parent": "Biology",
+   "Child": "Molecular biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 373,
+   "Parent": "Biology",
+   "Child": "Mycology",
+   "Type": "Category"
+ },
+ {
+   "ID": 374,
+   "Parent": "Biology",
+   "Child": "Neuroscience (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 375,
+   "Parent": "Biology",
+   "Child": "Nutrition (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 376,
+   "Parent": "Biology",
+   "Child": "Paleobiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 377,
+   "Parent": "Biology",
+   "Child": "Parasitology",
+   "Type": "Category"
+ },
+ {
+   "ID": 378,
+   "Parent": "Biology",
+   "Child": "Pathology",
+   "Type": "Category"
+ },
+ {
+   "ID": 379,
+   "Parent": "Biology",
+   "Child": "Physiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 380,
+   "Parent": "Biology",
+   "Child": "Structural Biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 381,
+   "Parent": "Biology",
+   "Child": "Systematics (Taxonomy)",
+   "Type": "Category"
+ },
+ {
+   "ID": 382,
+   "Parent": "Biology",
+   "Child": "Systems biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 383,
+   "Parent": "Biology",
+   "Child": "Virology",
+   "Type": "Category"
+ },
+ {
+   "ID": 384,
+   "Parent": "Biology",
+   "Child": "Xenobiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 385,
+   "Parent": "Biology",
+   "Child": "Zoology (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 386,
+   "Parent": "Chemistry",
+   "Child": "Agrochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 387,
+   "Parent": "Chemistry",
+   "Child": "Analytical chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 388,
+   "Parent": "Chemistry",
+   "Child": "Astrochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 389,
+   "Parent": "Chemistry",
+   "Child": "Atmospheric chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 390,
+   "Parent": "Chemistry",
+   "Child": "Biochemistry (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 391,
+   "Parent": "Chemistry",
+   "Child": "Chemical biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 392,
+   "Parent": "Chemistry",
+   "Child": "Chemical engineering (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 393,
+   "Parent": "Chemistry",
+   "Child": "Cheminformatics",
+   "Type": "Category"
+ },
+ {
+   "ID": 394,
+   "Parent": "Chemistry",
+   "Child": "Computational chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 395,
+   "Parent": "Chemistry",
+   "Child": "Cosmochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 396,
+   "Parent": "Chemistry",
+   "Child": "Electrochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 397,
+   "Parent": "Chemistry",
+   "Child": "Environmental chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 398,
+   "Parent": "Chemistry",
+   "Child": "Femtochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 399,
+   "Parent": "Chemistry",
+   "Child": "Flavor",
+   "Type": "Category"
+ },
+ {
+   "ID": 400,
+   "Parent": "Chemistry",
+   "Child": "Flow chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 401,
+   "Parent": "Chemistry",
+   "Child": "Geochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 402,
+   "Parent": "Chemistry",
+   "Child": "Green chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 403,
+   "Parent": "Chemistry",
+   "Child": "Histochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 404,
+   "Parent": "Chemistry",
+   "Child": "Hydrogenation",
+   "Type": "Category"
+ },
+ {
+   "ID": 405,
+   "Parent": "Chemistry",
+   "Child": "Immunochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 406,
+   "Parent": "Chemistry",
+   "Child": "Inorganic chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 407,
+   "Parent": "Chemistry",
+   "Child": "Marine chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 408,
+   "Parent": "Chemistry",
+   "Child": "Mathematical chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 409,
+   "Parent": "Chemistry",
+   "Child": "Mechanochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 410,
+   "Parent": "Chemistry",
+   "Child": "Medicinal chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 411,
+   "Parent": "Chemistry",
+   "Child": "Molecular biology",
+   "Type": "Category"
+ },
+ {
+   "ID": 412,
+   "Parent": "Chemistry",
+   "Child": "Molecular mechanics",
+   "Type": "Category"
+ },
+ {
+   "ID": 413,
+   "Parent": "Chemistry",
+   "Child": "Nanotechnology",
+   "Type": "Category"
+ },
+ {
+   "ID": 414,
+   "Parent": "Chemistry",
+   "Child": "Natural product chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 415,
+   "Parent": "Chemistry",
+   "Child": "Neurochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 416,
+   "Parent": "Chemistry",
+   "Child": "Oenology",
+   "Type": "Category"
+ },
+ {
+   "ID": 417,
+   "Parent": "Chemistry",
+   "Child": "Organic chemistry (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 418,
+   "Parent": "Chemistry",
+   "Child": "Organometallic chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 419,
+   "Parent": "Chemistry",
+   "Child": "Petrochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 420,
+   "Parent": "Chemistry",
+   "Child": "Pharmacology",
+   "Type": "Category"
+ },
+ {
+   "ID": 421,
+   "Parent": "Chemistry",
+   "Child": "Photochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 422,
+   "Parent": "Chemistry",
+   "Child": "Physical chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 423,
+   "Parent": "Chemistry",
+   "Child": "Physical organic chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 424,
+   "Parent": "Chemistry",
+   "Child": "Phytochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 425,
+   "Parent": "Chemistry",
+   "Child": "Polymer chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 426,
+   "Parent": "Chemistry",
+   "Child": "Quantum chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 427,
+   "Parent": "Chemistry",
+   "Child": "Radiochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 428,
+   "Parent": "Chemistry",
+   "Child": "Solid-state chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 429,
+   "Parent": "Chemistry",
+   "Child": "Sonochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 430,
+   "Parent": "Chemistry",
+   "Child": "Supramolecular chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 431,
+   "Parent": "Chemistry",
+   "Child": "Surface chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 432,
+   "Parent": "Chemistry",
+   "Child": "Synthetic chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 433,
+   "Parent": "Chemistry",
+   "Child": "Theoretical chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 434,
+   "Parent": "Chemistry",
+   "Child": "Thermochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 435,
+   "Parent": "Earth Science",
+   "Child": "Edaphology",
+   "Type": "Category"
+ },
+ {
+   "ID": 436,
+   "Parent": "Earth Science",
+   "Child": "Environmental chemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 437,
+   "Parent": "Earth Science",
+   "Child": "Environmental science",
+   "Type": "Category"
+ },
+ {
+   "ID": 438,
+   "Parent": "Earth Science",
+   "Child": "Gemology",
+   "Type": "Category"
+ },
+ {
+   "ID": 439,
+   "Parent": "Earth Science",
+   "Child": "Geochemistry",
+   "Type": "Category"
+ },
+ {
+   "ID": 440,
+   "Parent": "Earth Science",
+   "Child": "Geodesy",
+   "Type": "Category"
+ },
+ {
+   "ID": 441,
+   "Parent": "Earth Science",
+   "Child": "Physical geography (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 442,
+   "Parent": "Space Sciences",
+   "Child": "Astrobiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 443,
+   "Parent": "Space Sciences",
+   "Child": "Astronomy (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 444,
+   "Parent": "Space Sciences",
+   "Child": "Astrophysics",
+   "Type": "Category"
+ },
+ {
+   "ID": 445,
+   "Parent": "Space Sciences",
+   "Child": "Interstellar medium",
+   "Type": "Category"
+ },
+ {
+   "ID": 446,
+   "Parent": "Space Sciences",
+   "Child": "Numerical simulations",
+   "Type": "Category"
+ },
+ {
+   "ID": 447,
+   "Parent": "Space Sciences",
+   "Child": "Physical cosmology",
+   "Type": "Category"
+ },
+ {
+   "ID": 448,
+   "Parent": "Space Sciences",
+   "Child": "Stellar astrophysics",
+   "Type": "Category"
+ },
+ {
+   "ID": 449,
+   "Parent": "Space Sciences",
+   "Child": "Planetary science",
+   "Type": "Category"
+ },
+ {
+   "ID": 450,
+   "Parent": "Physics",
+   "Child": "Acoustics",
+   "Type": "Category"
+ },
+ {
+   "ID": 451,
+   "Parent": "Physics",
+   "Child": "Aerodynamics",
+   "Type": "Category"
+ },
+ {
+   "ID": 452,
+   "Parent": "Physics",
+   "Child": "Applied physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 453,
+   "Parent": "Physics",
+   "Child": "Astrophysics",
+   "Type": "Category"
+ },
+ {
+   "ID": 454,
+   "Parent": "Physics",
+   "Child": "Atomic, molecular, and optical physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 455,
+   "Parent": "Physics",
+   "Child": "Biophysics (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 456,
+   "Parent": "Physics",
+   "Child": "Computational physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 457,
+   "Parent": "Physics",
+   "Child": "Condensed matter physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 458,
+   "Parent": "Physics",
+   "Child": "Cryogenics",
+   "Type": "Category"
+ },
+ {
+   "ID": 459,
+   "Parent": "Physics",
+   "Child": "Electricity",
+   "Type": "Category"
+ },
+ {
+   "ID": 460,
+   "Parent": "Physics",
+   "Child": "Electromagnetism",
+   "Type": "Category"
+ },
+ {
+   "ID": 461,
+   "Parent": "Physics",
+   "Child": "Elementary particle physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 462,
+   "Parent": "Physics",
+   "Child": "Experimental physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 463,
+   "Parent": "Physics",
+   "Child": "Fluid dynamics",
+   "Type": "Category"
+ },
+ {
+   "ID": 464,
+   "Parent": "Physics",
+   "Child": "Geophysics (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 465,
+   "Parent": "Physics",
+   "Child": "Mathematical physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 466,
+   "Parent": "Physics",
+   "Child": "Mechanics",
+   "Type": "Category"
+ },
+ {
+   "ID": 467,
+   "Parent": "Physics",
+   "Child": "Medical physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 468,
+   "Parent": "Physics",
+   "Child": "Molecular physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 469,
+   "Parent": "Physics",
+   "Child": "Newtonian dynamics",
+   "Type": "Category"
+ },
+ {
+   "ID": 470,
+   "Parent": "Physics",
+   "Child": "Nuclear physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 471,
+   "Parent": "Physics",
+   "Child": "Optics",
+   "Type": "Category"
+ },
+ {
+   "ID": 472,
+   "Parent": "Physics",
+   "Child": "Plasma physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 473,
+   "Parent": "Physics",
+   "Child": "Quantum physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 474,
+   "Parent": "Physics",
+   "Child": "Solid mechanics",
+   "Type": "Category"
+ },
+ {
+   "ID": 475,
+   "Parent": "Physics",
+   "Child": "Solid state physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 476,
+   "Parent": "Physics",
+   "Child": "Statistical mechanics",
+   "Type": "Category"
+ },
+ {
+   "ID": 477,
+   "Parent": "Physics",
+   "Child": "Theoretical physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 478,
+   "Parent": "Physics",
+   "Child": "Thermal physics",
+   "Type": "Category"
+ },
+ {
+   "ID": 479,
+   "Parent": "Physics",
+   "Child": "Thermodynamics",
+   "Type": "Category"
+ },
+ {
+   "ID": 480,
+   "Parent": "Computer Science",
+   "Child": "Logic in computer science",
+   "Type": "Category"
+ },
+ {
+   "ID": 481,
+   "Parent": "Computer Science",
+   "Child": "Algorithms",
+   "Type": "Category"
+ },
+ {
+   "ID": 482,
+   "Parent": "Computer Science",
+   "Child": "Artificial intelligence (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 483,
+   "Parent": "Computer Science",
+   "Child": "Data structures",
+   "Type": "Category"
+ },
+ {
+   "ID": 484,
+   "Parent": "Computer Science",
+   "Child": "Computer architecture",
+   "Type": "Category"
+ },
+ {
+   "ID": 485,
+   "Parent": "Computer Science",
+   "Child": "Computer graphics",
+   "Type": "Category"
+ },
+ {
+   "ID": 486,
+   "Parent": "Computer Science",
+   "Child": "Computer communications (networks)",
+   "Type": "Category"
+ },
+ {
+   "ID": 487,
+   "Parent": "Computer Science",
+   "Child": "Computer security and reliability",
+   "Type": "Category"
+ },
+ {
+   "ID": 488,
+   "Parent": "Computer Science",
+   "Child": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 489,
+   "Parent": "Computer Science",
+   "Child": "Computing in social sciences, arts, humanities, and professions",
+   "Type": "Category"
+ },
+ {
+   "ID": 490,
+   "Parent": "Mathematics",
+   "Child": "Pure Mathematics",
+   "Type": "Category"
+ },
+ {
+   "ID": 491,
+   "Parent": "Mathematics",
+   "Child": "Applied Mathematics",
+   "Type": "Category"
+ },
+ {
+   "ID": 492,
+   "Parent": "Business",
+   "Child": "Accounting",
+   "Type": "Category"
+ },
+ {
+   "ID": 493,
+   "Parent": "Business",
+   "Child": "Business management",
+   "Type": "Category"
+ },
+ {
+   "ID": 494,
+   "Parent": "Business",
+   "Child": "Finance",
+   "Type": "Category"
+ },
+ {
+   "ID": 495,
+   "Parent": "Business",
+   "Child": "Marketing",
+   "Type": "Category"
+ },
+ {
+   "ID": 496,
+   "Parent": "Business",
+   "Child": "Operations management",
+   "Type": "Category"
+ },
+ {
+   "ID": 497,
+   "Parent": "Engineering and Technology",
+   "Child": "Chemical Engineering",
+   "Type": "Category"
+ },
+ {
+   "ID": 498,
+   "Parent": "Engineering and Technology",
+   "Child": "Civil Engineering",
+   "Type": "Category"
+ },
+ {
+   "ID": 499,
+   "Parent": "Engineering and Technology",
+   "Child": "Educational Technology",
+   "Type": "Category"
+ },
+ {
+   "ID": 500,
+   "Parent": "Engineering and Technology",
+   "Child": "Instructional design",
+   "Type": "Category"
+ },
+ {
+   "ID": 501,
+   "Parent": "Engineering and Technology",
+   "Child": "Human performance technology",
+   "Type": "Category"
+ },
+ {
+   "ID": 502,
+   "Parent": "Engineering and Technology",
+   "Child": "Knowledge management",
+   "Type": "Category"
+ },
+ {
+   "ID": 503,
+   "Parent": "Engineering and Technology",
+   "Child": "Electrical Engineering",
+   "Type": "Category"
+ },
+ {
+   "ID": 504,
+   "Parent": "Engineering and Technology",
+   "Child": "Materials Science and Engineering",
+   "Type": "Category"
+ },
+ {
+   "ID": 505,
+   "Parent": "Engineering and Technology",
+   "Child": "Mechanical Engineering",
+   "Type": "Category"
+ },
+ {
+   "ID": 506,
+   "Parent": "Engineering and Technology",
+   "Child": "Systems Science",
+   "Type": "Category"
+ },
+ {
+   "ID": 507,
+   "Parent": "Medicine and Health",
+   "Child": "Alternative medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 508,
+   "Parent": "Medicine and Health",
+   "Child": "Audiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 509,
+   "Parent": "Medicine and Health",
+   "Child": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 510,
+   "Parent": "Medicine and Health",
+   "Child": "Clinical physiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 511,
+   "Parent": "Medicine and Health",
+   "Child": "Dermatology",
+   "Type": "Category"
+ },
+ {
+   "ID": 512,
+   "Parent": "Medicine and Health",
+   "Child": "Emergency medicine (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 513,
+   "Parent": "Medicine and Health",
+   "Child": "Epidemiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 514,
+   "Parent": "Medicine and Health",
+   "Child": "Geriatrics",
+   "Type": "Category"
+ },
+ {
+   "ID": 515,
+   "Parent": "Medicine and Health",
+   "Child": "Gynaecology",
+   "Type": "Category"
+ },
+ {
+   "ID": 516,
+   "Parent": "Medicine and Health",
+   "Child": "Health informatics/Clinical informatics",
+   "Type": "Category"
+ },
+ {
+   "ID": 517,
+   "Parent": "Medicine and Health",
+   "Child": "Hematology",
+   "Type": "Category"
+ },
+ {
+   "ID": 518,
+   "Parent": "Medicine and Health",
+   "Child": "Infectious disease",
+   "Type": "Category"
+ },
+ {
+   "ID": 519,
+   "Parent": "Medicine and Health",
+   "Child": "Intensive care medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 520,
+   "Parent": "Medicine and Health",
+   "Child": "Internal medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 521,
+   "Parent": "Medicine and Health",
+   "Child": "Medical toxicology",
+   "Type": "Category"
+ },
+ {
+   "ID": 522,
+   "Parent": "Medicine and Health",
+   "Child": "Music therapy",
+   "Type": "Category"
+ },
+ {
+   "ID": 523,
+   "Parent": "Medicine and Health",
+   "Child": "Nursing",
+   "Type": "Category"
+ },
+ {
+   "ID": 524,
+   "Parent": "Medicine and Health",
+   "Child": "Nutrition (outline) and dietetics",
+   "Type": "Category"
+ },
+ {
+   "ID": 525,
+   "Parent": "Medicine and Health",
+   "Child": "Obstetrics (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 526,
+   "Parent": "Medicine and Health",
+   "Child": "Occupational hygiene",
+   "Type": "Category"
+ },
+ {
+   "ID": 527,
+   "Parent": "Medicine and Health",
+   "Child": "Occupational therapy",
+   "Type": "Category"
+ },
+ {
+   "ID": 528,
+   "Parent": "Medicine and Health",
+   "Child": "Occupational toxicology",
+   "Type": "Category"
+ },
+ {
+   "ID": 529,
+   "Parent": "Medicine and Health",
+   "Child": "Ophthalmology",
+   "Type": "Category"
+ },
+ {
+   "ID": 530,
+   "Parent": "Medicine and Health",
+   "Child": "Optometry",
+   "Type": "Category"
+ },
+ {
+   "ID": 531,
+   "Parent": "Medicine and Health",
+   "Child": "Otolaryngology",
+   "Type": "Category"
+ },
+ {
+   "ID": 532,
+   "Parent": "Medicine and Health",
+   "Child": "Pathology",
+   "Type": "Category"
+ },
+ {
+   "ID": 533,
+   "Parent": "Medicine and Health",
+   "Child": "Pediatrics",
+   "Type": "Category"
+ },
+ {
+   "ID": 534,
+   "Parent": "Medicine and Health",
+   "Child": "Pharmaceutical sciences",
+   "Type": "Category"
+ },
+ {
+   "ID": 535,
+   "Parent": "Medicine and Health",
+   "Child": "Physical fitness",
+   "Type": "Category"
+ },
+ {
+   "ID": 536,
+   "Parent": "Medicine and Health",
+   "Child": "Physical therapy",
+   "Type": "Category"
+ },
+ {
+   "ID": 537,
+   "Parent": "Medicine and Health",
+   "Child": "Physiotherapy",
+   "Type": "Category"
+ },
+ {
+   "ID": 538,
+   "Parent": "Medicine and Health",
+   "Child": "Podiatry",
+   "Type": "Category"
+ },
+ {
+   "ID": 539,
+   "Parent": "Medicine and Health",
+   "Child": "Preventive medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 540,
+   "Parent": "Medicine and Health",
+   "Child": "Primary care",
+   "Type": "Category"
+ },
+ {
+   "ID": 541,
+   "Parent": "Medicine and Health",
+   "Child": "Psychiatry (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 542,
+   "Parent": "Medicine and Health",
+   "Child": "Psychology (outline)",
+   "Type": "Category"
+ },
+ {
+   "ID": 543,
+   "Parent": "Medicine and Health",
+   "Child": "Public health",
+   "Type": "Category"
+ },
+ {
+   "ID": 544,
+   "Parent": "Medicine and Health",
+   "Child": "Radiology",
+   "Type": "Category"
+ },
+ {
+   "ID": 545,
+   "Parent": "Medicine and Health",
+   "Child": "Recreational therapy",
+   "Type": "Category"
+ },
+ {
+   "ID": 546,
+   "Parent": "Medicine and Health",
+   "Child": "Rehabilitation medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 547,
+   "Parent": "Medicine and Health",
+   "Child": "Respiratory therapy",
+   "Type": "Category"
+ },
+ {
+   "ID": 548,
+   "Parent": "Medicine and Health",
+   "Child": "Sleep medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 549,
+   "Parent": "Medicine and Health",
+   "Child": "Speech-language pathology",
+   "Type": "Category"
+ },
+ {
+   "ID": 550,
+   "Parent": "Medicine and Health",
+   "Child": "Sports medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 551,
+   "Parent": "Medicine and Health",
+   "Child": "Surgery",
+   "Type": "Category"
+ },
+ {
+   "ID": 552,
+   "Parent": "Medicine and Health",
+   "Child": "Traditional medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 553,
+   "Parent": "Medicine and Health",
+   "Child": "Urology",
+   "Type": "Category"
+ },
+ {
+   "ID": 554,
+   "Parent": "Medicine and Health",
+   "Child": "Veterinary medicine",
+   "Type": "Category"
+ },
+ {
+   "ID": 555,
+   "Parent": "Music",
+   "Child": "Accompanying",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 556,
+   "Parent": "Music",
+   "Child": "Chamber music",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 557,
+   "Parent": "Music",
+   "Child": "Church music",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 558,
+   "Parent": "Music",
+   "Child": "Conducting",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 559,
+   "Parent": "Music",
+   "Child": "Early music",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 560,
+   "Parent": "Music",
+   "Child": "Jazz studies (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 561,
+   "Parent": "Music",
+   "Child": "Musical composition",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 562,
+   "Parent": "Music",
+   "Child": "Music education",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 563,
+   "Parent": "Music",
+   "Child": "Music history",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 564,
+   "Parent": "Music",
+   "Child": "Musicology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 565,
+   "Parent": "Music",
+   "Child": "Ethnomusicology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 566,
+   "Parent": "Music",
+   "Child": "Music theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 567,
+   "Parent": "Music",
+   "Child": "Orchestral studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 568,
+   "Parent": "Music",
+   "Child": "Organology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 569,
+   "Parent": "Music",
+   "Child": "Recording",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 570,
+   "Parent": "Dance",
+   "Child": "Choreography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 571,
+   "Parent": "Dance",
+   "Child": "Dance notation",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 572,
+   "Parent": "Dance",
+   "Child": "Ethnochoreology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 573,
+   "Parent": "Dance",
+   "Child": "History of dance",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 574,
+   "Parent": "Television (outline)",
+   "Child": "Television studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 575,
+   "Parent": "Theatre (outline)",
+   "Child": "Acting",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 576,
+   "Parent": "Theatre (outline)",
+   "Child": "Directing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 577,
+   "Parent": "Theatre (outline)",
+   "Child": "Dramaturgy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 578,
+   "Parent": "Theatre (outline)",
+   "Child": "History",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 579,
+   "Parent": "Theatre (outline)",
+   "Child": "Musical theatre",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 580,
+   "Parent": "Theatre (outline)",
+   "Child": "Playwrighting",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 581,
+   "Parent": "Theatre (outline)",
+   "Child": "Puppetry",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 582,
+   "Parent": "Theatre (outline)",
+   "Child": "Scenography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 583,
+   "Parent": "Theatre (outline)",
+   "Child": "Stage design",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 584,
+   "Parent": "Theatre (outline)",
+   "Child": "Ventriloquism",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 585,
+   "Parent": "Film (outline)",
+   "Child": "Animation",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 586,
+   "Parent": "Film (outline)",
+   "Child": "Film criticism",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 587,
+   "Parent": "Film (outline)",
+   "Child": "Filmmaking",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 588,
+   "Parent": "Film (outline)",
+   "Child": "Film theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 589,
+   "Parent": "Film (outline)",
+   "Child": "Live action",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 590,
+   "Parent": "Fine Arts",
+   "Child": "Graphic Arts",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 591,
+   "Parent": "Fine Arts",
+   "Child": "Sculpture",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 592,
+   "Parent": "Applied arts",
+   "Child": "Animation",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 593,
+   "Parent": "Applied arts",
+   "Child": "Calligraphy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 594,
+   "Parent": "Applied arts",
+   "Child": "Decorative arts",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 595,
+   "Parent": "Applied arts",
+   "Child": "Mixed media",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 596,
+   "Parent": "Applied arts",
+   "Child": "Printmaking",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 597,
+   "Parent": "Applied arts",
+   "Child": "Studio art",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 598,
+   "Parent": "Applied arts",
+   "Child": "Architecture (Outline of architecture)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 599,
+   "Parent": "Applied arts",
+   "Child": "Fashion",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 600,
+   "Parent": "Ancient history",
+   "Child": "Ancient Egypt",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 601,
+   "Parent": "Ancient history",
+   "Child": "Carthage",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 602,
+   "Parent": "Ancient history",
+   "Child": "Ancient Greek history (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 603,
+   "Parent": "Ancient history",
+   "Child": "Ancient Roman history (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 604,
+   "Parent": "Ancient history",
+   "Child": "Assyrian Civilization",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 605,
+   "Parent": "Ancient history",
+   "Child": "Bronze Age Civilizations",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 606,
+   "Parent": "Ancient history",
+   "Child": "Biblical history",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 607,
+   "Parent": "Ancient history",
+   "Child": "History of the Indus Valley Civilization",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 608,
+   "Parent": "Ancient history",
+   "Child": "Preclassic Maya",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 609,
+   "Parent": "Ancient history",
+   "Child": "History of Mesopotamia",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 610,
+   "Parent": "Ancient history",
+   "Child": "The Stone Age",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 611,
+   "Parent": "Ancient history",
+   "Child": "History of the Yangtze civilization",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 612,
+   "Parent": "Ancient history",
+   "Child": "History of the Yellow River civilization",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 613,
+   "Parent": "Asian history",
+   "Child": "Chinese history",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 614,
+   "Parent": "Asian history",
+   "Child": "Indian history (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 615,
+   "Parent": "Asian history",
+   "Child": "Indonesian history",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 616,
+   "Parent": "Asian history",
+   "Child": "Iranian history",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 617,
+   "Parent": "History of philosophy",
+   "Child": "Ancient philosophy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 618,
+   "Parent": "History of philosophy",
+   "Child": "Contemporary philosophy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 619,
+   "Parent": "History of philosophy",
+   "Child": "Medieval philosophy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 620,
+   "Parent": "History of philosophy",
+   "Child": "Modern philosophy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 621,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Applied linguistics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 622,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Composition studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 623,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Computational linguistics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 624,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Discourse analysis",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 625,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "English studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 626,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Etymology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 627,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Grammar",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 628,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Grammatology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 629,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Historical linguistics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 630,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "History of linguistics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 631,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Interlinguistics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 632,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Lexicology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 633,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Linguistic typology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 634,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Morphology (linguistics)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 635,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Natural language processing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 636,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Philology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 637,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Phonetics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 638,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Phonology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 639,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Pragmatics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 640,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Psycholinguistics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 641,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Rhetoric",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 642,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Semantics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 643,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Semiotics (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 644,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Sociolinguistics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 645,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Syntax",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 646,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Usage",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 647,
+   "Parent": "Linguistics (Outline of linguistics)",
+   "Child": "Word usage",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 648,
+   "Parent": "Creative writing",
+   "Child": "Fiction (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 649,
+   "Parent": "Creative writing",
+   "Child": "Non-fiction",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 650,
+   "Parent": "History of literature",
+   "Child": "Ancient literature",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 651,
+   "Parent": "History of literature",
+   "Child": "Medieval literature",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 652,
+   "Parent": "History of literature",
+   "Child": "Post-colonial literature",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 653,
+   "Parent": "History of literature",
+   "Child": "Post-modern literature",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 654,
+   "Parent": "History of literature",
+   "Child": "Critical theory (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 655,
+   "Parent": "History of literature",
+   "Child": "Literary criticism",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 656,
+   "Parent": "History of literature",
+   "Child": "Poetics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 657,
+   "Parent": "World literature",
+   "Child": "African-American literature",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 658,
+   "Parent": "World literature",
+   "Child": "American literature",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 659,
+   "Parent": "World literature",
+   "Child": "British literature",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 660,
+   "Parent": "Civil law",
+   "Child": "Admiralty law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 661,
+   "Parent": "Civil law",
+   "Child": "Animal law/Animal rights",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 662,
+   "Parent": "Civil law",
+   "Child": "Civil procedure",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 663,
+   "Parent": "Civil law",
+   "Child": "Common law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 664,
+   "Parent": "Civil law",
+   "Child": "Contract law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 665,
+   "Parent": "Civil law",
+   "Child": "Corporations",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 666,
+   "Parent": "Civil law",
+   "Child": "Environmental law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 667,
+   "Parent": "Civil law",
+   "Child": "Family law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 668,
+   "Parent": "Civil law",
+   "Child": "Federal law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 669,
+   "Parent": "Civil law",
+   "Child": "International law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 670,
+   "Parent": "Civil law",
+   "Child": "Labor law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 671,
+   "Parent": "Civil law",
+   "Child": "Property law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 672,
+   "Parent": "Civil law",
+   "Child": "Tax law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 673,
+   "Parent": "Civil law",
+   "Child": "Tort law (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 674,
+   "Parent": "Criminal law",
+   "Child": "Criminal justice (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 675,
+   "Parent": "Criminal law",
+   "Child": "Criminal procedure",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 676,
+   "Parent": "Legal management",
+   "Child": "Commercial law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 677,
+   "Parent": "Legal management",
+   "Child": "Corporate law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 678,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of economics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 679,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of education",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 680,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 681,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of history",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 682,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of language",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 683,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of law",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 684,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of mathematics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 685,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of music",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 686,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of psychology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 687,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of religion",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 688,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of physical sciences",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 689,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of social science",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 690,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophy of technology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 691,
+   "Parent": "Applied philosophy",
+   "Child": "Systems philosophy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 692,
+   "Parent": "Applied philosophy",
+   "Child": "Epistemology (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 693,
+   "Parent": "Applied philosophy",
+   "Child": "Ethics (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 694,
+   "Parent": "Applied philosophy",
+   "Child": "Logic (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 695,
+   "Parent": "Applied philosophy",
+   "Child": "Meta-philosophy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 696,
+   "Parent": "Applied philosophy",
+   "Child": "Metaphysics (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 697,
+   "Parent": "Applied philosophy",
+   "Child": "Philosophical traditions and schools",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 698,
+   "Parent": "Applied philosophy",
+   "Child": "Social philosophy and political philosophy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 699,
+   "Parent": "Applied philosophy",
+   "Child": "Theology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 700,
+   "Parent": "Physical geography",
+   "Child": "Atmology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 701,
+   "Parent": "Physical geography",
+   "Child": "Biogeography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 702,
+   "Parent": "Physical geography",
+   "Child": "Climatology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 703,
+   "Parent": "Physical geography",
+   "Child": "Coastal geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 704,
+   "Parent": "Physical geography",
+   "Child": "Emergency management",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 705,
+   "Parent": "Physical geography",
+   "Child": "Environmental geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 706,
+   "Parent": "Physical geography",
+   "Child": "Geobiology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 707,
+   "Parent": "Physical geography",
+   "Child": "Geochemistry",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 708,
+   "Parent": "Physical geography",
+   "Child": "Geology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 709,
+   "Parent": "Physical geography",
+   "Child": "Geomatics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 710,
+   "Parent": "Physical geography",
+   "Child": "Geomorphology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 711,
+   "Parent": "Physical geography",
+   "Child": "Geophysics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 712,
+   "Parent": "Physical geography",
+   "Child": "Glaciology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 713,
+   "Parent": "Physical geography",
+   "Child": "Hydrology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 714,
+   "Parent": "Physical geography",
+   "Child": "Landscape ecology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 715,
+   "Parent": "Physical geography",
+   "Child": "Lithology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 716,
+   "Parent": "Physical geography",
+   "Child": "Meteorology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 717,
+   "Parent": "Physical geography",
+   "Child": "Mineralogy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 718,
+   "Parent": "Physical geography",
+   "Child": "Oceanography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 719,
+   "Parent": "Physical geography",
+   "Child": "Palaeogeography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 720,
+   "Parent": "Physical geography",
+   "Child": "Palaeontology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 721,
+   "Parent": "Physical geography",
+   "Child": "Petrology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 722,
+   "Parent": "Physical geography",
+   "Child": "Quaternary science",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 723,
+   "Parent": "Physical geography",
+   "Child": "Soil geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 724,
+   "Parent": "Human Geography",
+   "Child": "Behavioural geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 725,
+   "Parent": "Human Geography",
+   "Child": "Cognitive geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 726,
+   "Parent": "Human Geography",
+   "Child": "Cultural geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 727,
+   "Parent": "Human Geography",
+   "Child": "Development geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 728,
+   "Parent": "Human Geography",
+   "Child": "Economic geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 729,
+   "Parent": "Human Geography",
+   "Child": "Health geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 730,
+   "Parent": "Human Geography",
+   "Child": "Historical geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 731,
+   "Parent": "Human Geography",
+   "Child": "Language geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 732,
+   "Parent": "Human Geography",
+   "Child": "Marketing geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 733,
+   "Parent": "Human Geography",
+   "Child": "Military geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 734,
+   "Parent": "Human Geography",
+   "Child": "Political geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 735,
+   "Parent": "Human Geography",
+   "Child": "Population geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 736,
+   "Parent": "Human Geography",
+   "Child": "Religion geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 737,
+   "Parent": "Human Geography",
+   "Child": "Social geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 738,
+   "Parent": "Human Geography",
+   "Child": "Strategic geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 739,
+   "Parent": "Human Geography",
+   "Child": "Time geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 740,
+   "Parent": "Human Geography",
+   "Child": "Tourism geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 741,
+   "Parent": "Human Geography",
+   "Child": "Transport geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 742,
+   "Parent": "Human Geography",
+   "Child": "Urban geography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 743,
+   "Parent": "Cartography",
+   "Child": "Celestial cartography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 744,
+   "Parent": "Cartography",
+   "Child": "Planetary cartography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 745,
+   "Parent": "Cartography",
+   "Child": "Topography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 746,
+   "Parent": "Cultural psychology",
+   "Child": "Asian psychology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 747,
+   "Parent": "Cultural psychology",
+   "Child": "Black psychology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 748,
+   "Parent": "Psychopathology",
+   "Child": "Child psychopathology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 749,
+   "Parent": "Applied sociology",
+   "Child": "Leisure studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 750,
+   "Parent": "Applied sociology",
+   "Child": "Political sociology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 751,
+   "Parent": "Applied sociology",
+   "Child": "Public sociology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 752,
+   "Parent": "Applied sociology",
+   "Child": "Social engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 753,
+   "Parent": "Area studies",
+   "Child": "African studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 754,
+   "Parent": "Area studies",
+   "Child": "American studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 755,
+   "Parent": "Area studies",
+   "Child": "Asian studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 756,
+   "Parent": "Area studies",
+   "Child": "Australian studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 757,
+   "Parent": "Area studies",
+   "Child": "European studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 758,
+   "Parent": "Area studies",
+   "Child": "Middle Eastern studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 759,
+   "Parent": "Behavioral sociology",
+   "Child": "Middle Eastern studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 760,
+   "Parent": "Collective behavior",
+   "Child": "Middle Eastern studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 761,
+   "Parent": "Collective behavior",
+   "Child": "Social movements",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 762,
+   "Parent": "Community informatics",
+   "Child": "Social network analysis",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 763,
+   "Parent": "Cultural studies/ethnic studies",
+   "Child": "Africana studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 764,
+   "Parent": "Cultural studies/ethnic studies",
+   "Child": "Cross-cultural studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 765,
+   "Parent": "Cultural studies/ethnic studies",
+   "Child": "Culturology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 766,
+   "Parent": "Cultural studies/ethnic studies",
+   "Child": "Deaf studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 767,
+   "Parent": "Cultural studies/ethnic studies",
+   "Child": "Ethnology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 768,
+   "Parent": "Cultural studies/ethnic studies",
+   "Child": "Utopian studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 769,
+   "Parent": "Cultural studies/ethnic studies",
+   "Child": "Whiteness studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 770,
+   "Parent": "Gender studies",
+   "Child": "Men's studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 771,
+   "Parent": "Gender studies",
+   "Child": "Women's studies",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 772,
+   "Parent": "Interpretive sociology",
+   "Child": "Ethnomethodology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 773,
+   "Parent": "Interpretive sociology",
+   "Child": "Phenomenology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 774,
+   "Parent": "Interpretive sociology",
+   "Child": "Social constructionism",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 775,
+   "Parent": "Interpretive sociology",
+   "Child": "Symbolic interactionism",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 776,
+   "Parent": "Sexology",
+   "Child": "Heterosexism",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 777,
+   "Parent": "Sexology",
+   "Child": "Human sexual behavior",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 778,
+   "Parent": "Sexology",
+   "Child": "Human sexuality (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 779,
+   "Parent": "Sexology",
+   "Child": "Queer studies/Queer theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 780,
+   "Parent": "Sexology",
+   "Child": "Sex education",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 781,
+   "Parent": "Social control",
+   "Child": "Pure sociology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 782,
+   "Parent": "Social transformation",
+   "Child": "Computational sociology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 783,
+   "Parent": "Social transformation",
+   "Child": "Economic sociology/Socioeconomics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 784,
+   "Parent": "Anatomy",
+   "Child": "Comparative anatomy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 785,
+   "Parent": "Anatomy",
+   "Child": "Human anatomy (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 786,
+   "Parent": "Botany (outline)",
+   "Child": "Ethnobotany",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 787,
+   "Parent": "Botany (outline)",
+   "Child": "Phycology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 788,
+   "Parent": "Developmental biology",
+   "Child": "Embryology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 789,
+   "Parent": "Developmental biology",
+   "Child": "Teratology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 790,
+   "Parent": "Ecology (outline)",
+   "Child": "Agroecology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 791,
+   "Parent": "Ecology (outline)",
+   "Child": "Ethnoecology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 792,
+   "Parent": "Ecology (outline)",
+   "Child": "Human ecology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 793,
+   "Parent": "Ecology (outline)",
+   "Child": "Landscape ecology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 794,
+   "Parent": "Genetics (outline)",
+   "Child": "Behavioural genetics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 795,
+   "Parent": "Genetics (outline)",
+   "Child": "Molecular genetics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 796,
+   "Parent": "Genetics (outline)",
+   "Child": "Population genetics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 797,
+   "Parent": "Microbiology",
+   "Child": "Bacteriology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 798,
+   "Parent": "Microbiology",
+   "Child": "Protistology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 799,
+   "Parent": "Neuroscience (outline)",
+   "Child": "Behavioral neuroscience",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 800,
+   "Parent": "Paleobiology",
+   "Child": "Paleontology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 801,
+   "Parent": "Pathology",
+   "Child": "Anatomical pathology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 802,
+   "Parent": "Pathology",
+   "Child": "Clinical pathology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 803,
+   "Parent": "Pathology",
+   "Child": "Dermatopathology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 804,
+   "Parent": "Pathology",
+   "Child": "Forensic pathology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 805,
+   "Parent": "Pathology",
+   "Child": "Hematopathology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 806,
+   "Parent": "Pathology",
+   "Child": "Histopathology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 807,
+   "Parent": "Pathology",
+   "Child": "Molecular pathology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 808,
+   "Parent": "Pathology",
+   "Child": "Surgical pathology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 809,
+   "Parent": "Physiology",
+   "Child": "Human physiology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 810,
+   "Parent": "Physiology",
+   "Child": "Exercise physiology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 811,
+   "Parent": "Virology",
+   "Child": "Molecular virology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 812,
+   "Parent": "Zoology (outline)",
+   "Child": "Animal communications",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 813,
+   "Parent": "Zoology (outline)",
+   "Child": "Apiology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 814,
+   "Parent": "Zoology (outline)",
+   "Child": "Arachnology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 815,
+   "Parent": "Zoology (outline)",
+   "Child": "Carcinology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 816,
+   "Parent": "Zoology (outline)",
+   "Child": "Cetology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 817,
+   "Parent": "Zoology (outline)",
+   "Child": "Entomology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 818,
+   "Parent": "Zoology (outline)",
+   "Child": "Ethnozoology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 819,
+   "Parent": "Zoology (outline)",
+   "Child": "Ethology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 820,
+   "Parent": "Zoology (outline)",
+   "Child": "Helminthology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 821,
+   "Parent": "Zoology (outline)",
+   "Child": "Herpetology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 822,
+   "Parent": "Zoology (outline)",
+   "Child": "Ichthyology (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 823,
+   "Parent": "Zoology (outline)",
+   "Child": "Mammalogy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 824,
+   "Parent": "Zoology (outline)",
+   "Child": "Malacology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 825,
+   "Parent": "Zoology (outline)",
+   "Child": "Myrmecology (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 826,
+   "Parent": "Zoology (outline)",
+   "Child": "Nematology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 827,
+   "Parent": "Zoology (outline)",
+   "Child": "Neuroethology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 828,
+   "Parent": "Zoology (outline)",
+   "Child": "Oology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 829,
+   "Parent": "Zoology (outline)",
+   "Child": "Ornithology (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 830,
+   "Parent": "Zoology (outline)",
+   "Child": "Planktology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 831,
+   "Parent": "Zoology (outline)",
+   "Child": "Primatology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 832,
+   "Parent": "Zoology (outline)",
+   "Child": "Zootomy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 833,
+   "Parent": "Zoology (outline)",
+   "Child": "Zoosemiotics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 834,
+   "Parent": "Physical geography (outline)",
+   "Child": "Atmospheric science / Meteorology (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 835,
+   "Parent": "Physical geography (outline)",
+   "Child": "Biogeography / Phytogeography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 836,
+   "Parent": "Physical geography (outline)",
+   "Child": "Climatology / Paleoclimatology / Palaeogeography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 837,
+   "Parent": "Physical geography (outline)",
+   "Child": "Coastal geography / Oceanography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 838,
+   "Parent": "Physical geography (outline)",
+   "Child": "Edaphology / Pedology or Soil science",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 839,
+   "Parent": "Physical geography (outline)",
+   "Child": "Geobiology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 840,
+   "Parent": "Physical geography (outline)",
+   "Child": "Geology (outline) (Geomorphology, Mineralogy, Petrology, Sedimentology, Speleology, Tectonics, Volcanology)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 841,
+   "Parent": "Physical geography (outline)",
+   "Child": "Geostatistics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 842,
+   "Parent": "Physical geography (outline)",
+   "Child": "Glaciology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 843,
+   "Parent": "Physical geography (outline)",
+   "Child": "Hydrology (outline)/ Limnology / Hydrogeology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 844,
+   "Parent": "Physical geography (outline)",
+   "Child": "Landscape ecology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 845,
+   "Parent": "Physical geography (outline)",
+   "Child": "Quaternary science",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 846,
+   "Parent": "Physical geography (outline)",
+   "Child": "Geophysics (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 847,
+   "Parent": "Physical geography (outline)",
+   "Child": "Paleontology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 848,
+   "Parent": "Astronomy (outline)",
+   "Child": "Observational astronomy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 849,
+   "Parent": "Astrophysics",
+   "Child": "Gravitational astronomy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 850,
+   "Parent": "Numerical simulations",
+   "Child": "Astrophysical plasma",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 851,
+   "Parent": "Numerical simulations",
+   "Child": "Galaxy formation and evolution",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 852,
+   "Parent": "Numerical simulations",
+   "Child": "High-energy astrophysics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 853,
+   "Parent": "Numerical simulations",
+   "Child": "Hydrodynamics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 854,
+   "Parent": "Numerical simulations",
+   "Child": "Magnetohydrodynamics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 855,
+   "Parent": "Numerical simulations",
+   "Child": "Star formation",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 856,
+   "Parent": "Stellar astrophysics",
+   "Child": "Helioseismology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 857,
+   "Parent": "Stellar astrophysics",
+   "Child": "Stellar evolution",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 858,
+   "Parent": "Stellar astrophysics",
+   "Child": "Stellar nucleosynthesis",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 859,
+   "Parent": "Logic in computer science",
+   "Child": "Formal methods (Formal verification)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 860,
+   "Parent": "Logic in computer science",
+   "Child": "Logic programming",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 861,
+   "Parent": "Logic in computer science",
+   "Child": "Multi-valued logic",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 862,
+   "Parent": "Logic in computer science",
+   "Child": "Programming language semantics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 863,
+   "Parent": "Logic in computer science",
+   "Child": "Type theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 864,
+   "Parent": "Algorithms",
+   "Child": "Computational geometry",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 865,
+   "Parent": "Algorithms",
+   "Child": "Distributed algorithms",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 866,
+   "Parent": "Algorithms",
+   "Child": "Parallel algorithms",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 867,
+   "Parent": "Algorithms",
+   "Child": "Randomized algorithms",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 868,
+   "Parent": "Artificial intelligence (outline)",
+   "Child": "Cognitive science",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 869,
+   "Parent": "Artificial intelligence (outline)",
+   "Child": "Expert systems",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 870,
+   "Parent": "Artificial intelligence (outline)",
+   "Child": "Robotics (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 871,
+   "Parent": "Computer graphics",
+   "Child": "Image processing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 872,
+   "Parent": "Computer graphics",
+   "Child": "Scientific visualization",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 873,
+   "Parent": "Computer communications (networks)",
+   "Child": "Cloud computing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 874,
+   "Parent": "Computer communications (networks)",
+   "Child": "Information theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 875,
+   "Parent": "Computer communications (networks)",
+   "Child": "Internet, World Wide Web",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 876,
+   "Parent": "Computer communications (networks)",
+   "Child": "Ubiquitous computing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 877,
+   "Parent": "Computer communications (networks)",
+   "Child": "Wireless computing (Mobile computing)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 878,
+   "Parent": "Computer security and reliability",
+   "Child": "Cryptography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 879,
+   "Parent": "Computer security and reliability",
+   "Child": "Fault-tolerant computing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 880,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Algebraic (symbolic) computation",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 881,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Computational biology (bioinformatics)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 882,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Computational chemistry",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 883,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Computational mathematics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 884,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Computational neuroscience",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 885,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Computational number theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 886,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Computational physics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 887,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Computer-aided engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 888,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Numerical analysis",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 889,
+   "Parent": "Computing in mathematics, natural sciences, engineering, and medicine",
+   "Child": "Scientific computing (Computational science)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 890,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Community informatics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 891,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Computational economics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 892,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Computational finance",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 893,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Computational sociology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 894,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Digital humanities (Humanities computing)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 895,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "History of computer hardware",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 896,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "History of computer science (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 897,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Humanistic informatics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 898,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Database (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 899,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Data management",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 900,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Data mining",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 901,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Information architecture",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 902,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Information management",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 903,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Information retrieval",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 904,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Knowledge management",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 905,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Multimedia, hypermedia",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 906,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Distributed computing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 907,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Human-computer interaction",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 908,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Operating systems",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 909,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Parallel computing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 910,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Programming languages",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 911,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Quantum computing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 912,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Software engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 913,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "Theory of computation",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 914,
+   "Parent": "Computing in social sciences, arts, humanities, and professions",
+   "Child": "VLSI design",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 915,
+   "Parent": "Pure Mathematics",
+   "Child": "Mathematical logic and Foundations of mathematics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 916,
+   "Parent": "Pure Mathematics",
+   "Child": "Algebra (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 917,
+   "Parent": "Pure Mathematics",
+   "Child": "Analysis",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 918,
+   "Parent": "Pure Mathematics",
+   "Child": "Probability theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 919,
+   "Parent": "Pure Mathematics",
+   "Child": "Geometry (outline) and Topology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 920,
+   "Parent": "Pure Mathematics",
+   "Child": "Number theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 921,
+   "Parent": "Applied Mathematics",
+   "Child": "Number theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 922,
+   "Parent": "Applied Mathematics",
+   "Child": "Approximation theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 923,
+   "Parent": "Applied Mathematics",
+   "Child": "Combinatorics (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 924,
+   "Parent": "Applied Mathematics",
+   "Child": "Cryptography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 925,
+   "Parent": "Applied Mathematics",
+   "Child": "Dynamical systems",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 926,
+   "Parent": "Applied Mathematics",
+   "Child": "Game theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 927,
+   "Parent": "Applied Mathematics",
+   "Child": "Graph theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 928,
+   "Parent": "Applied Mathematics",
+   "Child": "Information theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 929,
+   "Parent": "Applied Mathematics",
+   "Child": "Mathematical physics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 930,
+   "Parent": "Applied Mathematics",
+   "Child": "Numerical analysis",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 931,
+   "Parent": "Applied Mathematics",
+   "Child": "Operations research",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 932,
+   "Parent": "Applied Mathematics",
+   "Child": "Statistics (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 933,
+   "Parent": "Applied Mathematics",
+   "Child": "Theory of computation",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 934,
+   "Parent": "Chemical Engineering",
+   "Child": "Bioengineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 935,
+   "Parent": "Chemical Engineering",
+   "Child": "Catalysis",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 936,
+   "Parent": "Chemical Engineering",
+   "Child": "Materials engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 937,
+   "Parent": "Chemical Engineering",
+   "Child": "Molecular engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 938,
+   "Parent": "Chemical Engineering",
+   "Child": "Nanotechnology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 939,
+   "Parent": "Chemical Engineering",
+   "Child": "Polymer engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 940,
+   "Parent": "Chemical Engineering",
+   "Child": "Process design",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 941,
+   "Parent": "Chemical Engineering",
+   "Child": "Process engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 942,
+   "Parent": "Chemical Engineering",
+   "Child": "Reaction engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 943,
+   "Parent": "Chemical Engineering",
+   "Child": "Thermodynamics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 944,
+   "Parent": "Chemical Engineering",
+   "Child": "Transport phenomena",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 945,
+   "Parent": "Civil Engineering",
+   "Child": "Coastal engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 946,
+   "Parent": "Civil Engineering",
+   "Child": "Earthquake engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 947,
+   "Parent": "Civil Engineering",
+   "Child": "Ecological engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 948,
+   "Parent": "Civil Engineering",
+   "Child": "Environmental engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 949,
+   "Parent": "Civil Engineering",
+   "Child": "Geotechnical engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 950,
+   "Parent": "Civil Engineering",
+   "Child": "Hydraulic engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 951,
+   "Parent": "Civil Engineering",
+   "Child": "Mining engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 952,
+   "Parent": "Civil Engineering",
+   "Child": "Transportation engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 953,
+   "Parent": "Civil Engineering",
+   "Child": "Structural engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 954,
+   "Parent": "Civil Engineering",
+   "Child": "Structural mechanics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 955,
+   "Parent": "Civil Engineering",
+   "Child": "Surveying",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 956,
+   "Parent": "Instructional Design",
+   "Child": "Distance education",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 957,
+   "Parent": "Instructional Design",
+   "Child": "Instructional simulation",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 958,
+   "Parent": "Electrical Engineering",
+   "Child": "Applied physics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 959,
+   "Parent": "Electrical Engineering",
+   "Child": "Computer engineering (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 960,
+   "Parent": "Electrical Engineering",
+   "Child": "Computer science",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 961,
+   "Parent": "Electrical Engineering",
+   "Child": "Control systems engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 962,
+   "Parent": "Electrical Engineering",
+   "Child": "Electronic engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 963,
+   "Parent": "Electrical Engineering",
+   "Child": "Engineering physics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 964,
+   "Parent": "Electrical Engineering",
+   "Child": "Information theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 965,
+   "Parent": "Electrical Engineering",
+   "Child": "Mechatronics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 966,
+   "Parent": "Electrical Engineering",
+   "Child": "Power engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 967,
+   "Parent": "Electrical Engineering",
+   "Child": "Quantum computing",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 968,
+   "Parent": "Electrical Engineering",
+   "Child": "Robotics (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 969,
+   "Parent": "Electrical Engineering",
+   "Child": "Semiconductors",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 970,
+   "Parent": "Electrical Engineering",
+   "Child": "Telecommunications engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 971,
+   "Parent": "Materials Science and Engineering",
+   "Child": "Biomaterials",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 972,
+   "Parent": "Materials Science and Engineering",
+   "Child": "Ceramic engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 973,
+   "Parent": "Materials Science and Engineering",
+   "Child": "Crystallography",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 974,
+   "Parent": "Materials Science and Engineering",
+   "Child": "Nanomaterials",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 975,
+   "Parent": "Materials Science and Engineering",
+   "Child": "Photonics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 976,
+   "Parent": "Materials Science and Engineering",
+   "Child": "Physical Metallurgy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 977,
+   "Parent": "Materials Science and Engineering",
+   "Child": "Polymer engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 978,
+   "Parent": "Materials Science and Engineering",
+   "Child": "Polymer science",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 979,
+   "Parent": "Materials Science and Engineering",
+   "Child": "Semiconductors",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 980,
+   "Parent": "Mechanical Engineering",
+   "Child": "Aerospace engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 981,
+   "Parent": "Mechanical Engineering",
+   "Child": "Acoustical engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 982,
+   "Parent": "Mechanical Engineering",
+   "Child": "Automotive engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 983,
+   "Parent": "Mechanical Engineering",
+   "Child": "Biomedical engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 984,
+   "Parent": "Mechanical Engineering",
+   "Child": "Continuum mechanics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 985,
+   "Parent": "Mechanical Engineering",
+   "Child": "Fluid mechanics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 986,
+   "Parent": "Mechanical Engineering",
+   "Child": "Heat transfer",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 987,
+   "Parent": "Mechanical Engineering",
+   "Child": "Industrial engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 988,
+   "Parent": "Mechanical Engineering",
+   "Child": "Manufacturing engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 989,
+   "Parent": "Mechanical Engineering",
+   "Child": "Marine engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 990,
+   "Parent": "Mechanical Engineering",
+   "Child": "Mass transfer",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 991,
+   "Parent": "Mechanical Engineering",
+   "Child": "Mechatronics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 992,
+   "Parent": "Mechanical Engineering",
+   "Child": "Nanoengineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 993,
+   "Parent": "Mechanical Engineering",
+   "Child": "Ocean engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 994,
+   "Parent": "Mechanical Engineering",
+   "Child": "Optical engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 995,
+   "Parent": "Mechanical Engineering",
+   "Child": "Robotics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 996,
+   "Parent": "Mechanical Engineering",
+   "Child": "Thermodynamics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 997,
+   "Parent": "Systems Science",
+   "Child": "Chaos theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 998,
+   "Parent": "Systems Science",
+   "Child": "Complex systems",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 999,
+   "Parent": "Systems Science",
+   "Child": "Conceptual systems",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1000,
+   "Parent": "Systems Science",
+   "Child": "Control theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1001,
+   "Parent": "Systems Science",
+   "Child": "Cybernetics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1002,
+   "Parent": "Systems Science",
+   "Child": "Network science",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1003,
+   "Parent": "Systems Science",
+   "Child": "Operations research",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1004,
+   "Parent": "Systems Science",
+   "Child": "Systems biology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1005,
+   "Parent": "Systems Science",
+   "Child": "Computational systems biology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1006,
+   "Parent": "Systems Science",
+   "Child": "System dynamics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1007,
+   "Parent": "Systems Science",
+   "Child": "Systems ecology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1008,
+   "Parent": "Systems Science",
+   "Child": "Systems engineering",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1009,
+   "Parent": "Systems Science",
+   "Child": "Systems psychology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1010,
+   "Parent": "Systems Science",
+   "Child": "Systems theory",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1011,
+   "Parent": "Systems Science",
+   "Child": "Systems theory in anthropology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1012,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Clinical biochemistry",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1013,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Cytogenetics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1014,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Cytohematology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1015,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Cytology (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1016,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Haemostasiology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1017,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Histology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1018,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Clinical immunology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1019,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Clinical microbiology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1020,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Molecular genetics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1021,
+   "Parent": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+   "Child": "Parasitology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1022,
+   "Parent": "Clinical physiology",
+   "Child": "Dentistry (outline)",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1023,
+   "Parent": "Clinical physiology",
+   "Child": "Dental hygiene and epidemiology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1024,
+   "Parent": "Clinical physiology",
+   "Child": "Dental surgery",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1025,
+   "Parent": "Clinical physiology",
+   "Child": "Endodontics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1026,
+   "Parent": "Clinical physiology",
+   "Child": "Implantology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1027,
+   "Parent": "Clinical physiology",
+   "Child": "Oral and maxillofacial surgery",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1028,
+   "Parent": "Clinical physiology",
+   "Child": "Orthodontics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1029,
+   "Parent": "Clinical physiology",
+   "Child": "Periodontics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1030,
+   "Parent": "Clinical physiology",
+   "Child": "Prosthodontics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1031,
+   "Parent": "Internal medicine",
+   "Child": "Cardiology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1032,
+   "Parent": "Internal medicine",
+   "Child": "Endocrinology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1033,
+   "Parent": "Internal medicine",
+   "Child": "Gastroenterology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1034,
+   "Parent": "Internal medicine",
+   "Child": "Hepatology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1035,
+   "Parent": "Internal medicine",
+   "Child": "Nephrology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1036,
+   "Parent": "Internal medicine",
+   "Child": "Neurology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1037,
+   "Parent": "Internal medicine",
+   "Child": "Oncology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1038,
+   "Parent": "Internal medicine",
+   "Child": "Pulmonology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1039,
+   "Parent": "Internal medicine",
+   "Child": "Rheumatology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1040,
+   "Parent": "Ophthalmology",
+   "Child": "Neuro-ophthalmology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1041,
+   "Parent": "Pharmaceutical sciences",
+   "Child": "Pharmacy",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1042,
+   "Parent": "Physical fitness",
+   "Child": "Group Fitness / aerobics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1043,
+   "Parent": "Physical fitness",
+   "Child": "Kinesiology / Exercise science / Human performance",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1044,
+   "Parent": "Physical fitness",
+   "Child": "Personal fitness training",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1045,
+   "Parent": "Primary care",
+   "Child": "General practice",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1046,
+   "Parent": "Psychiatry (outline)",
+   "Child": "Forensic psychiatry",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1047,
+   "Parent": "Surgery",
+   "Child": "Bariatric surgery",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1048,
+   "Parent": "Surgery",
+   "Child": "Cardiothoracic surgery",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1049,
+   "Parent": "Surgery",
+   "Child": "Neurosurgery",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1050,
+   "Parent": "Surgery",
+   "Child": "Orthoptics",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1051,
+   "Parent": "Surgery",
+   "Child": "Orthopedic surgery",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1052,
+   "Parent": "Surgery",
+   "Child": "Plastic surgery",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1053,
+   "Parent": "Surgery",
+   "Child": "Trauma surgery",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1054,
+   "Parent": "Surgery",
+   "Child": "Traumatology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1055,
+   "Parent": "Urology",
+   "Child": "Andrology",
+   "Type": "Subcategory"
+ },
+ {
+   "ID": 1056,
+   "Parent": "Conducting",
+   "Child": "Choral conducting",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1057,
+   "Parent": "Conducting",
+   "Child": "Orchestral conducting",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1058,
+   "Parent": "Conducting",
+   "Child": "Wind ensemble conducting",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1059,
+   "Parent": "Musicology",
+   "Child": "Historical musicology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1060,
+   "Parent": "Musicology",
+   "Child": "Systematic musicology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1061,
+   "Parent": "Organology",
+   "Child": "Organ and historical keyboards",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1062,
+   "Parent": "Organology",
+   "Child": "Piano",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1063,
+   "Parent": "Organology",
+   "Child": "Strings, harp, oud, and guitar (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1064,
+   "Parent": "Organology",
+   "Child": "Singing",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1065,
+   "Parent": "Organology",
+   "Child": "Woodwinds, brass, and percussion",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1066,
+   "Parent": "Graphic Arts",
+   "Child": "Drawing (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1067,
+   "Parent": "Graphic Arts",
+   "Child": "Painting (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1068,
+   "Parent": "Graphic Arts",
+   "Child": "Photography (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1069,
+   "Parent": "Architecture (Outline of architecture)",
+   "Child": "Interior architecture",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1070,
+   "Parent": "Architecture (Outline of architecture)",
+   "Child": "Landscape architecture",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1071,
+   "Parent": "Architecture (Outline of architecture)",
+   "Child": "Architectural analytics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1072,
+   "Parent": "Architecture (Outline of architecture)",
+   "Child": "Historic preservation",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1073,
+   "Parent": "Architecture (Outline of architecture)",
+   "Child": "Interior design (interior architecture)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1074,
+   "Parent": "Architecture (Outline of architecture)",
+   "Child": "Technical drawing",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1075,
+   "Parent": "Medieval philosophy",
+   "Child": "Humanism (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1076,
+   "Parent": "Medieval philosophy",
+   "Child": "Scholasticism",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1077,
+   "Parent": "International law",
+   "Child": "Public international law",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1078,
+   "Parent": "International law",
+   "Child": "Supranational law",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1079,
+   "Parent": "Criminal procedure",
+   "Child": "Forensic science (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1080,
+   "Parent": "Criminal procedure",
+   "Child": "Police science",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1081,
+   "Parent": "Philosophy of physical sciences",
+   "Child": "Philosophy of biology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1082,
+   "Parent": "Philosophy of physical sciences",
+   "Child": "Philosophy of chemistry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1083,
+   "Parent": "Philosophy of physical sciences",
+   "Child": "Philosophy of physics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1084,
+   "Parent": "Epistemology (outline)",
+   "Child": "Justification",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1085,
+   "Parent": "Epistemology (outline)",
+   "Child": "Reasoning errors",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1086,
+   "Parent": "Ethics (outline)",
+   "Child": "Applied ethics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1087,
+   "Parent": "Ethics (outline)",
+   "Child": "Meta-ethics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1088,
+   "Parent": "Ethics (outline)",
+   "Child": "Moral psychology, Descriptive ethics, Value theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1089,
+   "Parent": "Ethics (outline)",
+   "Child": "Normative ethics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1090,
+   "Parent": "Logic (outline)",
+   "Child": "Mathematical logic",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1091,
+   "Parent": "Logic (outline)",
+   "Child": "Philosophical logic",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1092,
+   "Parent": "Metaphysics (outline)",
+   "Child": "Philosophy of Action",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1093,
+   "Parent": "Metaphysics (outline)",
+   "Child": "Determinism and Free will",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1094,
+   "Parent": "Metaphysics (outline)",
+   "Child": "Ontology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1095,
+   "Parent": "Metaphysics (outline)",
+   "Child": "Philosophy of mind",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1096,
+   "Parent": "Metaphysics (outline)",
+   "Child": "Philosophy of space and time",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1097,
+   "Parent": "Metaphysics (outline)",
+   "Child": "Teleology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1098,
+   "Parent": "Metaphysics (outline)",
+   "Child": "Theism and Atheism",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1099,
+   "Parent": "Philosophical traditions and schools",
+   "Child": "African philosophy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1100,
+   "Parent": "Philosophical traditions and schools",
+   "Child": "Analytic philosophy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1101,
+   "Parent": "Philosophical traditions and schools",
+   "Child": "Aristotelianism",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1102,
+   "Parent": "Philosophical traditions and schools",
+   "Child": "Continental philosophy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1103,
+   "Parent": "Philosophical traditions and schools",
+   "Child": "Eastern philosophy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1104,
+   "Parent": "Philosophical traditions and schools",
+   "Child": "Feminist philosophy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1105,
+   "Parent": "Philosophical traditions and schools",
+   "Child": "Platonism",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1106,
+   "Parent": "Social philosophy and political philosophy",
+   "Child": "Anarchism (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1107,
+   "Parent": "Social philosophy and political philosophy",
+   "Child": "Feminist philosophy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1108,
+   "Parent": "Social philosophy and political philosophy",
+   "Child": "Libertarianism (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1109,
+   "Parent": "Social philosophy and political philosophy",
+   "Child": "Marxism",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1110,
+   "Parent": "Theology",
+   "Child": "Biblical studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1111,
+   "Parent": "Theology",
+   "Child": "Religious studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1112,
+   "Parent": "Theology",
+   "Child": "Biblical Hebrew, Biblical Greek, Aramaic",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1113,
+   "Parent": "Theology",
+   "Child": "Buddhist theology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1114,
+   "Parent": "Theology",
+   "Child": "Christian theology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1115,
+   "Parent": "Theology",
+   "Child": "Hindu theology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1116,
+   "Parent": "Theology",
+   "Child": "Jewish theology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1117,
+   "Parent": "Theology",
+   "Child": "Muslim theology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1118,
+   "Parent": "American studies",
+   "Child": "Appalachian studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1119,
+   "Parent": "American studies",
+   "Child": "Canadian studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1120,
+   "Parent": "American studies",
+   "Child": "Latin American studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1121,
+   "Parent": "Asian studies",
+   "Child": "Central Asian studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1122,
+   "Parent": "Asian studies",
+   "Child": "East Asian studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1123,
+   "Parent": "Asian studies",
+   "Child": "Indology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1124,
+   "Parent": "Asian studies",
+   "Child": "Iranian studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1125,
+   "Parent": "Asian studies",
+   "Child": "Japanese studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1126,
+   "Parent": "Asian studies",
+   "Child": "Korean studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1127,
+   "Parent": "Asian studies",
+   "Child": "Pakistan studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1128,
+   "Parent": "Asian studies",
+   "Child": "Sindhology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1129,
+   "Parent": "Asian studies",
+   "Child": "Sinology (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1130,
+   "Parent": "Asian studies",
+   "Child": "Southeast Asian studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1131,
+   "Parent": "Asian studies",
+   "Child": "Thai studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1132,
+   "Parent": "European studies",
+   "Child": "Celtic studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1133,
+   "Parent": "European studies",
+   "Child": "German studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1134,
+   "Parent": "European studies",
+   "Child": "Sociology in Poland",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1135,
+   "Parent": "European studies",
+   "Child": "Scandinavian studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1136,
+   "Parent": "European studies",
+   "Child": "Slavic studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1137,
+   "Parent": "Middle Eastern studies",
+   "Child": "Arab studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1138,
+   "Parent": "Middle Eastern studies",
+   "Child": "Assyriology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1139,
+   "Parent": "Middle Eastern studies",
+   "Child": "Egyptology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1140,
+   "Parent": "Middle Eastern studies",
+   "Child": "Jewish studies",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1141,
+   "Parent": "Economic sociology/Socioeconomics",
+   "Child": "Economic development",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1142,
+   "Parent": "Economic sociology/Socioeconomics",
+   "Child": "Social development",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1143,
+   "Parent": "Entomology",
+   "Child": "Forensic entomology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1144,
+   "Parent": "Malacology",
+   "Child": "Conchology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1145,
+   "Parent": "Paleontology",
+   "Child": "Paleobiology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1146,
+   "Parent": "Paleontology",
+   "Child": "Paleoecology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1147,
+   "Parent": "Observational astronomy",
+   "Child": "Gamma ray astronomy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1148,
+   "Parent": "Observational astronomy",
+   "Child": "Infrared astronomy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1149,
+   "Parent": "Observational astronomy",
+   "Child": "Microwave astronomy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1150,
+   "Parent": "Observational astronomy",
+   "Child": "Optical astronomy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1151,
+   "Parent": "Observational astronomy",
+   "Child": "Radio astronomy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1152,
+   "Parent": "Observational astronomy",
+   "Child": "UV astronomy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1153,
+   "Parent": "Observational astronomy",
+   "Child": "X-ray astronomy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1154,
+   "Parent": "Gravitational astronomy",
+   "Child": "Black holes",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1155,
+   "Parent": "Multi-valued logic",
+   "Child": "Fuzzy logic",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1156,
+   "Parent": "Cognitive science",
+   "Child": "Automated reasoning",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1157,
+   "Parent": "Cognitive science",
+   "Child": "Computer vision (outline)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1158,
+   "Parent": "Cognitive science",
+   "Child": "Machine learning",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1159,
+   "Parent": "Cognitive science",
+   "Child": "Natural language processing (Computational linguistics)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1160,
+   "Parent": "Computer-aided engineering",
+   "Child": "Computational fluid dynamics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1161,
+   "Parent": "Computer-aided engineering",
+   "Child": "Finite element analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1162,
+   "Parent": "Database (outline)",
+   "Child": "Distributed database",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1163,
+   "Parent": "Database (outline)",
+   "Child": "Object database",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1164,
+   "Parent": "Database (outline)",
+   "Child": "Relational database",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1165,
+   "Parent": "Multimedia, hypermedia",
+   "Child": "Sound and music computing",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1166,
+   "Parent": "Distributed computing",
+   "Child": "Grid computing",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1167,
+   "Parent": "Parallel computing",
+   "Child": "High-performance computing",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1168,
+   "Parent": "Programming languages",
+   "Child": "Compilers",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1169,
+   "Parent": "Programming languages",
+   "Child": "Programming paradigms",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1170,
+   "Parent": "Programming languages",
+   "Child": "Program semantics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1171,
+   "Parent": "Programming languages",
+   "Child": "Type theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1172,
+   "Parent": "Software engineering",
+   "Child": "Formal methods (Formal verification)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1173,
+   "Parent": "Theory of computation",
+   "Child": "Automata theory (Formal languages)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1174,
+   "Parent": "Theory of computation",
+   "Child": "Computability theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1175,
+   "Parent": "Theory of computation",
+   "Child": "Computational complexity theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1176,
+   "Parent": "Theory of computation",
+   "Child": "Concurrency theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1177,
+   "Parent": "Mathematical logic and Foundations of mathematics",
+   "Child": "Intuitionistic logic",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1178,
+   "Parent": "Mathematical logic and Foundations of mathematics",
+   "Child": "Modal logic",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1179,
+   "Parent": "Mathematical logic and Foundations of mathematics",
+   "Child": "Model theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1180,
+   "Parent": "Mathematical logic and Foundations of mathematics",
+   "Child": "Proof theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1181,
+   "Parent": "Mathematical logic and Foundations of mathematics",
+   "Child": "Recursion theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1182,
+   "Parent": "Mathematical logic and Foundations of mathematics",
+   "Child": "Set theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1183,
+   "Parent": "Algebra (outline)",
+   "Child": "Associative algebra",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1184,
+   "Parent": "Algebra (outline)",
+   "Child": "Category theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1185,
+   "Parent": "Algebra (outline)",
+   "Child": "Differential algebra",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1186,
+   "Parent": "Algebra (outline)",
+   "Child": "Field theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1187,
+   "Parent": "Algebra (outline)",
+   "Child": "Group theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1188,
+   "Parent": "Algebra (outline)",
+   "Child": "Homological algebra",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1189,
+   "Parent": "Algebra (outline)",
+   "Child": "K-theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1190,
+   "Parent": "Algebra (outline)",
+   "Child": "Lattice theory (Order theory)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1191,
+   "Parent": "Algebra (outline)",
+   "Child": "Lie algebra",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1192,
+   "Parent": "Algebra (outline)",
+   "Child": "Linear algebra (Vector space)",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1193,
+   "Parent": "Algebra (outline)",
+   "Child": "Multilinear algebra",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1194,
+   "Parent": "Algebra (outline)",
+   "Child": "Non-associative algebra",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1195,
+   "Parent": "Algebra (outline)",
+   "Child": "Representation theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1196,
+   "Parent": "Algebra (outline)",
+   "Child": "Ring theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1197,
+   "Parent": "Algebra (outline)",
+   "Child": "Universal algebra",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1198,
+   "Parent": "Analysis",
+   "Child": "Complex analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1199,
+   "Parent": "Analysis",
+   "Child": "Functional analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1200,
+   "Parent": "Analysis",
+   "Child": "Harmonic analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1201,
+   "Parent": "Analysis",
+   "Child": "Non-standard analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1202,
+   "Parent": "Analysis",
+   "Child": "Ordinary differential equations",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1203,
+   "Parent": "Analysis",
+   "Child": "p-adic analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1204,
+   "Parent": "Analysis",
+   "Child": "Partial differential equations",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1205,
+   "Parent": "Analysis",
+   "Child": "Real analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1206,
+   "Parent": "Probability theory",
+   "Child": "Ergodic theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1207,
+   "Parent": "Probability theory",
+   "Child": "Measure theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1208,
+   "Parent": "Probability theory",
+   "Child": "Stochastic process",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1209,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Affine geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1210,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Algebraic geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1211,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Algebraic topology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1212,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Convex geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1213,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Differential topology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1214,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Discrete geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1215,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Finite geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1216,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Galois geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1217,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "General topology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1218,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Geometric topology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1219,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Integral geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1220,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Noncommutative geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1221,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Non-Euclidean geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1222,
+   "Parent": "Geometry (outline) and Topology",
+   "Child": "Projective geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1223,
+   "Parent": "Number theory",
+   "Child": "Algebraic number theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1224,
+   "Parent": "Number theory",
+   "Child": "Analytic number theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1225,
+   "Parent": "Number theory",
+   "Child": "Arithmetic combinatorics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1226,
+   "Parent": "Number theory",
+   "Child": "Geometric number theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1227,
+   "Parent": "Combinatorics (outline)",
+   "Child": "Coding theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1228,
+   "Parent": "Dynamical systems",
+   "Child": "Chaos theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1229,
+   "Parent": "Dynamical systems",
+   "Child": "Fractal geometry",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1230,
+   "Parent": "Mathematical physics",
+   "Child": "Quantum field theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1231,
+   "Parent": "Mathematical physics",
+   "Child": "Quantum gravity",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1232,
+   "Parent": "Mathematical physics",
+   "Child": "Quantum mechanics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1233,
+   "Parent": "Mathematical physics",
+   "Child": "Statistical mechanics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1234,
+   "Parent": "Operations research",
+   "Child": "Assignment problem",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1235,
+   "Parent": "Operations research",
+   "Child": "Decision analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1236,
+   "Parent": "Operations research",
+   "Child": "Dynamic programming",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1237,
+   "Parent": "Operations research",
+   "Child": "Inventory theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1238,
+   "Parent": "Operations research",
+   "Child": "Linear programming",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1239,
+   "Parent": "Operations research",
+   "Child": "Mathematical optimization",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1240,
+   "Parent": "Operations research",
+   "Child": "Optimal maintenance",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1241,
+   "Parent": "Operations research",
+   "Child": "Real options analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1242,
+   "Parent": "Operations research",
+   "Child": "Scheduling",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1243,
+   "Parent": "Operations research",
+   "Child": "Stochastic processes",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1244,
+   "Parent": "Operations research",
+   "Child": "Systems analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1245,
+   "Parent": "Statistics (outline)",
+   "Child": "Actuarial science",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1246,
+   "Parent": "Statistics (outline)",
+   "Child": "Demography",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1247,
+   "Parent": "Statistics (outline)",
+   "Child": "Econometrics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1248,
+   "Parent": "Statistics (outline)",
+   "Child": "Mathematical statistics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1249,
+   "Parent": "Statistics (outline)",
+   "Child": "Data visualization",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1250,
+   "Parent": "",
+   "Child": "Computational complexity theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1251,
+   "Parent": "Bioengineering",
+   "Child": "Biochemical engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1252,
+   "Parent": "Bioengineering",
+   "Child": "Biomolecular engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1253,
+   "Parent": "Process design",
+   "Child": "Petroleum engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1254,
+   "Parent": "Process design",
+   "Child": "Nuclear engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1255,
+   "Parent": "Process design",
+   "Child": "Food engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1256,
+   "Parent": "Geotechnical engineering",
+   "Child": "Engineering geology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1257,
+   "Parent": "Transportation engineering",
+   "Child": "Highway engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1258,
+   "Parent": "Structural engineering",
+   "Child": "Architectural engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1259,
+   "Parent": "Control systems engineering",
+   "Child": "Control theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1260,
+   "Parent": "Electronic engineering",
+   "Child": "Instrumentation engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1261,
+   "Parent": "Engineering physics",
+   "Child": "Photonics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1262,
+   "Parent": "Aerospace engineering",
+   "Child": "Aeronautics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1263,
+   "Parent": "Aerospace engineering",
+   "Child": "Astronautics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1264,
+   "Parent": "Biomedical engineering",
+   "Child": "Biomechanical engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1265,
+   "Parent": "Biomedical engineering",
+   "Child": "Neural engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1266,
+   "Parent": "Control theory",
+   "Child": "Affect control theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1267,
+   "Parent": "Control theory",
+   "Child": "Control engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1268,
+   "Parent": "Control theory",
+   "Child": "Control systems",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1269,
+   "Parent": "Control theory",
+   "Child": "Dynamical systems",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1270,
+   "Parent": "Control theory",
+   "Child": "Perceptual control theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1271,
+   "Parent": "Cybernetics",
+   "Child": "Biocybernetics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1272,
+   "Parent": "Cybernetics",
+   "Child": "Engineering cybernetics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1273,
+   "Parent": "Cybernetics",
+   "Child": "Management cybernetics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1274,
+   "Parent": "Cybernetics",
+   "Child": "Medical cybernetics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1275,
+   "Parent": "Cybernetics",
+   "Child": "New Cybernetics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1276,
+   "Parent": "Cybernetics",
+   "Child": "Second-order cybernetics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1277,
+   "Parent": "Cybernetics",
+   "Child": "Sociocybernetics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1278,
+   "Parent": "Computational systems biology",
+   "Child": "Synthetic biology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1279,
+   "Parent": "Computational systems biology",
+   "Child": "Systems immunology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1280,
+   "Parent": "Computational systems biology",
+   "Child": "Systems neuroscience",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1281,
+   "Parent": "System dynamics",
+   "Child": "Social dynamics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1282,
+   "Parent": "Systems ecology",
+   "Child": "Ecosystem ecology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1283,
+   "Parent": "Systems engineering",
+   "Child": "Biological systems engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1284,
+   "Parent": "Systems engineering",
+   "Child": "Earth systems engineering and management",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1285,
+   "Parent": "Systems engineering",
+   "Child": "Enterprise systems engineering",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1286,
+   "Parent": "Systems engineering",
+   "Child": "Systems analysis",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1287,
+   "Parent": "Systems psychology",
+   "Child": "Ergonomics",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1288,
+   "Parent": "Systems psychology",
+   "Child": "Family systems theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1289,
+   "Parent": "Systems psychology",
+   "Child": "Systemic therapy",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1290,
+   "Parent": "Systems theory",
+   "Child": "Biochemical systems theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1291,
+   "Parent": "Systems theory",
+   "Child": "Ecological systems theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1292,
+   "Parent": "Systems theory",
+   "Child": "Developmental systems theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1293,
+   "Parent": "Systems theory",
+   "Child": "General systems theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1294,
+   "Parent": "Systems theory",
+   "Child": "Living systems theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1295,
+   "Parent": "Systems theory",
+   "Child": "LTI system theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1296,
+   "Parent": "Systems theory",
+   "Child": "Mathematical system theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1297,
+   "Parent": "Systems theory",
+   "Child": "Sociotechnical systems theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1298,
+   "Parent": "Systems theory",
+   "Child": "World-systems theory",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1299,
+   "Parent": "Cardiology",
+   "Child": "Cardiac electrophysiology",
+   "Type": "Subject"
+ },
+ {
+   "ID": 1300,
+   "Parent": "Landscape architecture",
+   "Child": "Landscape design",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1301,
+   "Parent": "Landscape architecture",
+   "Child": "Landscape planning",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1302,
+   "Parent": "Applied ethics",
+   "Child": "Animal rights",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1303,
+   "Parent": "Applied ethics",
+   "Child": "Bioethics",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1304,
+   "Parent": "Applied ethics",
+   "Child": "Environmental ethics",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1305,
+   "Parent": "Normative ethics",
+   "Child": "Virtue ethics",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1306,
+   "Parent": "Philosophy of mind",
+   "Child": "Philosophy of pain",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1307,
+   "Parent": "Philosophy of mind",
+   "Child": "Philosophy of artificial intelligence",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1308,
+   "Parent": "Philosophy of mind",
+   "Child": "Philosophy of perception",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1309,
+   "Parent": "Christian theology",
+   "Child": "Anglican theology",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1310,
+   "Parent": "Christian theology",
+   "Child": "Baptist theology",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1311,
+   "Parent": "Christian theology",
+   "Child": "Catholic theology",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1312,
+   "Parent": "Christian theology",
+   "Child": "Eastern Orthodox theology",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1313,
+   "Parent": "Christian theology",
+   "Child": "Protestant theology",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1314,
+   "Parent": "Machine Learning",
+   "Child": "Artificial neural network",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1315,
+   "Parent": "Machine Learning",
+   "Child": "Support vector machine",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1316,
+   "Parent": "Programming Paradigms",
+   "Child": "Concurrent programming",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1317,
+   "Parent": "Programming Paradigms",
+   "Child": "Functional programming",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1318,
+   "Parent": "Programming Paradigms",
+   "Child": "Imperative programming",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1319,
+   "Parent": "Programming Paradigms",
+   "Child": "Logic programming",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1320,
+   "Parent": "Programming Paradigms",
+   "Child": "Object-oriented programming",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1321,
+   "Parent": "Category theory",
+   "Child": "Topos theory",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1322,
+   "Parent": "Group theory",
+   "Child": "Group representation",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1323,
+   "Parent": "Ring theory",
+   "Child": "Commutative algebra",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1324,
+   "Parent": "Ring theory",
+   "Child": "Noncommutative algebra",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1325,
+   "Parent": "Functional analysis",
+   "Child": "Operator theory",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1326,
+   "Parent": "Harmonic analysis",
+   "Child": "Fourier analysis",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1327,
+   "Parent": "Real analysis",
+   "Child": "Calculus (outline)",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1328,
+   "Parent": "Measure theory",
+   "Child": "Integral geometry",
+   "Type": "Discipline"
+ },
+ {
+   "ID": 1329,
+   "Parent": "Quantum gravity",
+   "Child": "String theory",
+   "Type": "Discipline"
+ }
+]
